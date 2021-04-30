@@ -1,4 +1,4 @@
-# OCR17+ - Additional data for informatione extraction of old French prints
+# OCR17+ - Additional data for information extraction of old French prints
 
 Data for layout analysis and HTR.
 
