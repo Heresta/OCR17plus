@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-01-25T15:19:31.352+01:00</Created>
+        <LastChange>2019-05-05T11:43:59.240+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="162888" pageId="5991289" pageNr="57" tsid="10167869" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=UFAGPKQICGZBROHXBSMVXTLP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSXTSMAZIJGFJYFQQSKPMOPI" imageId="2072229"/>
+    </Metadata>
+  <Page imageFilename="Balzac1624_Lettres_btv1b86262420_corrected_0057.png" imageWidth="4267" imageHeight="6812">
+    <PrintSpace>
+            <Coords points="431,364 3264,364 3264,3573 431,3573"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604221558493" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="region_1548426670982_2670"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="460,397 3230,397 3230,1136 460,1136"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1057,398 3209,398 3209,621 1057,621"/>
+        <Baseline points="1057,566 1177,566 2493,572 3209,621"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="1057,398 3209,398 3209,621 1057,621"/>
+          <TextEquiv>
+            <Unicode>DE BALZAC. 35</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="461,638 3229,638 3229,925 461,925"/>
+        <Baseline points="461,922 1033,842 1633,831 2313,840 3229,845"/>
+        <Word id="w_w2aab1b1b2b1b3ab1">
+          <Coords points="461,638 3229,638 3229,925 461,925"/>
+          <TextEquiv>
+            <Unicode>puiſſe vous louer comme</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="465,914 1953,914 1953,1135 465,1135"/>
+        <Baseline points="465,1134 941,1122 1149,1130 1953,1131"/>
+        <Word id="w_w2aab1b1b2b1b5ab1">
+          <Coords points="465,914 1953,914 1953,1135 465,1135"/>
+          <TextEquiv>
+            <Unicode>vous le merités.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+      <Coords points="1882,2362 2708,2362 2708,2521 1882,2521"/>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1883,2363 2707,2363 2707,2520 1883,2520"/>
+        <Baseline points="1883,2503 2707,2516"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="1883,2363 2707,2363 2707,2520 1883,2520"/>
+          <TextEquiv>
+            <Unicode>BALZAC.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+      <Coords points="477,3141 1523,3141 1523,3539 477,3539"/>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="482,3142 1522,3142 1522,3299 482,3299"/>
+        <Baseline points="482,3294 698,3290 1522,3299"/>
+        <Word id="w_w2aab1b5b2b1b1ab1">
+          <Coords points="482,3142 1522,3142 1522,3299 482,3299"/>
+          <TextEquiv>
+            <Unicode>Le troiſieſme</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="478,3354 1214,3354 1214,3538 478,3538"/>
+        <Baseline points="478,3502 790,3502 1214,3502"/>
+        <Word id="w_w2aab1b5b2b1b3ab1">
+          <Coords points="478,3354 1214,3354 1214,3538 478,3538"/>
+          <TextEquiv>
+            <Unicode>Iuin 1623.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="" id="region_1548426670982_2670" custom="readingOrder {index:3;}">
+      <Coords points="2321,4636 2808,4636 2808,5026 2321,5026"/>
+      <TextLine id="line_1548426677608_2673" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="2340,4699 2753,4694 2750,4959 2337,4964"/>
+        <Baseline points="2339,4919 2752,4914"/>
+        <Word id="word_1548426700850_2685">
+          <Coords points="2340,4699 2753,4694 2750,4959 2337,4964"/>
+          <TextEquiv>
+            <Unicode>C ij</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

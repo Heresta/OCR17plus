@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2018-12-18T19:50:42.839+01:00</Created>
+        <LastChange>2019-05-05T11:51:37.352+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="162888" pageId="5991255" pageNr="23" tsid="10167829" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=RLLSIUCDENECSHTPFPWZCOAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWXQNUVUQSLOOZPROTJVQLWJ" imageId="2072195"/>
+    </Metadata>
+  <Page imageFilename="Balzac1624_Lettres_btv1b86262420_corrected_0023.png" imageWidth="4267" imageHeight="6715">
+    <PrintSpace>
+            <Coords points="459,352 3230,352 3230,5767 459,5767"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604221543425" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+      <Coords points="496,1645 3179,1645 3179,2273 496,2273"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="497,1646 3178,1646 3178,1853 497,1853"/>
+        <Baseline points="497,1853 3178,1818"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="497,1646 3178,1646 3178,1853 497,1853"/>
+          <TextEquiv>
+            <Unicode>MONSEIGNEVR</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="610,2086 3083,2086 3083,2272 610,2272"/>
+        <Baseline points="610,2264 879,2252 1459,2259 3083,2234"/>
+        <Word id="w_w2aab1b3b2b1b3ab1">
+          <Coords points="610,2086 3083,2086 3083,2272 610,2272"/>
+          <TextEquiv>
+            <Unicode>LE DVC D’ESPERNON;</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+      <Coords points="1158,2479 2357,2479 2357,2640 1158,2640"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1159,2480 2356,2480 2356,2639 1159,2639"/>
+        <Baseline points="1159,2635 2072,2629 2356,2624"/>
+        <Word id="w_w2aab1b5b2b1b1ab1">
+          <Coords points="1159,2480 2356,2480 2356,2639 1159,2639"/>
+          <TextEquiv>
+            <Unicode>LETTRE I.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="6.5" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+      <Coords points="1552,2985 2946,2985 2946,3175 1552,3175"/>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1553,2986 2945,2986 2945,3174 1553,3174"/>
+        <Baseline points="1553,3146 1953,3137 2945,3171"/>
+        <Word id="w_w2aab1b5b2b3b1ab1">
+          <Coords points="1553,2986 2945,2986 2945,3174 1553,3174"/>
+          <TextEquiv>
+            <Unicode>Onseignevr,</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:4;}">
+      <Coords points="510,3517 3193,3517 3193,5733 510,5733"/>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1638,3518 3183,3518 3183,3766 1638,3766"/>
+        <Baseline points="1638,3766 2354,3728 3182,3694"/>
+        <Word id="w_w2aab1b5b2b5b1ab1">
+          <Coords points="1638,3518 3183,3518 3183,3766 1638,3766"/>
+          <TextEquiv>
+            <Unicode>Quand ie ne ſe¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="1547,3822 3187,3822 3187,4090 1547,4090"/>
+        <Baseline points="1547,4014 1911,4017 2307,4012 2771,4087 3187,3982"/>
+        <Word id="w_w2aab1b5b2b5b3ab1">
+          <Coords points="1547,3822 3187,3822 3187,4090 1547,4090"/>
+          <TextEquiv>
+            <Unicode>rois pas nay cõ¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="511,4098 3192,4098 3192,4349 511,4349"/>
+        <Baseline points="512,4305 816,4308 1040,4300 1516,4346 2148,4305 3192,4266"/>
+        <Word id="w_w2aab1b5b2b5b5ab1">
+          <Coords points="511,4098 3192,4098 3192,4349 511,4349"/>
+          <TextEquiv>
+            <Unicode>me ie ſuis, voſtre tres-hum¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:3;}">
+        <Coords points="520,4378 3181,4378 3181,4661 520,4661"/>
+        <Baseline points="520,4585 821,4584 1917,4581 2773,4579 3181,4582"/>
+        <Word id="w_w2aab1b5b2b5b7ab1">
+          <Coords points="520,4378 3181,4378 3181,4661 520,4661"/>
+          <TextEquiv>
+            <Unicode>ble ſeruiteur, il faudroit que</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:4;}">
+        <Coords points="517,4666 3182,4666 3182,4949 517,4949"/>
+        <Baseline points="517,4869 685,4872 1237,4867 2201,4865 3181,4862"/>
+        <Word id="w_w2aab1b5b2b5b9ab1">
+          <Coords points="517,4666 3182,4666 3182,4949 517,4949"/>
+          <TextEquiv>
+            <Unicode>ie fuſſe mauuais François</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:5;}">
+        <Coords points="522,4950 3190,4950 3190,5229 522,5229"/>
+        <Baseline points="522,5229 1006,5144 1294,5159 2446,5148 2818,5151 3190,5146"/>
+        <Word id="w_w2aab1b5b2b5c11ab1">
+          <Coords points="522,4950 3190,4950 3190,5229 522,5229"/>
+          <TextEquiv>
+            <Unicode>pour ne me reſioüir pas des</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_11" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:6;}">
+        <Coords points="526,5242 3183,5242 3183,5449 526,5449"/>
+        <Baseline points="527,5437 1799,5438 2063,5441 2703,5439 3183,5406"/>
+        <Word id="w_w2aab1b5b2b5c13ab1">
+          <Coords points="526,5242 3183,5242 3183,5449 526,5449"/>
+          <TextEquiv>
+            <Unicode>contẽtemens de voſtre mai¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_12" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:7;}">
+        <Coords points="2383,5543 2568,5543 2568,5732 2383,5732"/>
+        <Baseline points="2383,5732 2568,5732"/>
+        <Word id="w_w2aab1b5b2b5c15ab1">
+          <Coords points="2383,5543 2568,5543 2568,5732 2383,5732"/>
+          <TextEquiv>
+            <Unicode>A</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="520,352 3171,352 3171,1623 520,1623"/>
+        </GraphicRegion>
+    <GraphicRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="503,3044 1513,3044 1513,4047 503,4047"/>
+        </GraphicRegion>
+  </Page>
+</PcGts>
