@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2018-12-20T19:59:59.993+01:00</Created>
+        <LastChange>2019-06-02T20:51:18.338+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="149278" pageId="5549124" pageNr="12" tsid="10740394" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=IZAKCHGQHCGJHPQLKQWFVWFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RYFSLZCFHQPJHSVXALVGWTAC" imageId="2074360"/>
+    </Metadata>
+  <Page imageFilename="Descartes1637_Discours_btv1b86069594_corrected_0012.png" imageWidth="4267" imageHeight="5758">
+    <PrintSpace>
+            <Coords points="1,315 4265,315 4265,5758 1,5758"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604219705662" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_1_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1_3"/>
+                <RegionRefIndexed index="3" regionRef="r_1_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="1011,346 2807,346 2807,448 1011,448"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1012,347 2806,347 2806,447 1012,447"/>
+        <Baseline points="1012,441 1050,441 2806,445"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="1012,347 2806,347 2806,447 1012,447"/>
+          <TextEquiv>
+            <Unicode>6 Discours.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+      <Coords points="1010,506 3791,506 3791,1832 1010,1832"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1023,507 3786,507 3786,650 1023,650"/>
+        <Baseline points="1024,607 1190,607 1744,630 2286,608 2470,604 2686,605 2902,606 3302,635 3516,613 3786,620"/>
+        <Word id="w_w2aab1b1b2b3b1ab1">
+          <Coords points="1023,507 3786,507 3786,650 1023,650"/>
+          <TextEquiv>
+            <Unicode>des preceptes, ſe doiuent eſtimer plus habiles, que ceux</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="1011,649 3787,649 3787,788 1011,788"/>
+        <Baseline points="1011,739 1437,748 1573,746 1769,747 2389,750 2599,745 3155,750 3319,751 3451,753 3787,744"/>
+        <Word id="w_w2aab1b1b2b3b3ab1">
+          <Coords points="1011,649 3787,649 3787,788 1011,788"/>
+          <TextEquiv>
+            <Unicode>auſquels ils des donnent, &amp; s’ils manquent en la moin¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="1021,793 3781,793 3781,934 1021,934"/>
+        <Baseline points="1021,905 1191,903 1523,910 1661,894 1803,891 2029,893 2617,883 2939,890 3083,898 3603,901 3781,910"/>
+        <Word id="w_w2aab1b1b2b3b5ab1">
+          <Coords points="1021,793 3781,793 3781,934 1021,934"/>
+          <TextEquiv>
+            <Unicode>dre choſe, ils en ſont blaſmables. Mais ne propoſant cet</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:3;}">
+        <Coords points="1020,939 3781,939 3781,1086 1020,1086"/>
+        <Baseline points="1020,1051 1519,1042 1925,1039 2131,1039 2693,1035 2783,1037 3033,1040 3445,1039 3781,1052"/>
+        <Word id="w_w2aab1b1b2b3b7ab1">
+          <Coords points="1020,939 3781,939 3781,1086 1020,1086"/>
+          <TextEquiv>
+            <Unicode>eſcrit, que comme vne histoire, ou ſi vous l’aymez mieux</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:4;}">
+        <Coords points="1020,1091 3780,1091 3780,1246 1020,1246"/>
+        <Baseline points="1020,1239 1206,1201 1608,1194 1812,1193 2238,1188 2652,1191 2960,1192 3438,1201 3780,1192"/>
+        <Word id="w_w2aab1b1b2b3b9ab1">
+          <Coords points="1020,1091 3780,1091 3780,1246 1020,1246"/>
+          <TextEquiv>
+            <Unicode>que comme vne fable, en laquelle parmi quelques exem¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:5;}">
+        <Coords points="1019,1249 3790,1249 3790,1388 1019,1388"/>
+        <Baseline points="1019,1381 1210,1345 1524,1342 1772,1341 2158,1362 2324,1336 2478,1334 2964,1338 3472,1349 3790,1380"/>
+        <Word id="w_w2aab1b1b2b3c11ab1">
+          <Coords points="1019,1249 3790,1249 3790,1388 1019,1388"/>
+          <TextEquiv>
+            <Unicode>ples qu’on peut imiter, on en trouuera peuteſtre auſſy</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:6;}">
+        <Coords points="1013,1389 3785,1389 3785,1540 1013,1540"/>
+        <Baseline points="1013,1533 1443,1498 1767,1493 2077,1487 2309,1488 2621,1485 2773,1487 2915,1490 3095,1490 3785,1490"/>
+        <Word id="w_w2aab1b1b2b3c13ab1">
+          <Coords points="1013,1389 3785,1389 3785,1540 1013,1540"/>
+          <TextEquiv>
+            <Unicode>pluſieurs autres qu’on aura raiſon de ne pas ſuiure; i’eſpe¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:7;}">
+        <Coords points="1019,1545 3789,1545 3789,1698 1019,1698"/>
+        <Baseline points="1019,1645 1123,1645 1371,1645 1583,1648 1833,1647 1913,1645 2391,1642 2819,1641 3075,1652 3473,1657 3549,1661 3789,1648"/>
+        <Word id="w_w2aab1b1b2b3c15ab1">
+          <Coords points="1019,1545 3789,1545 3789,1698 1019,1698"/>
+          <TextEquiv>
+            <Unicode>re qu’il ſera vtile a quelques vns, ſans eſtre nuiſible a per¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:8;}">
+        <Coords points="1018,1689 3589,1689 3589,1831 1018,1831"/>
+        <Baseline points="1018,1791 1334,1817 1459,1794 1673,1792 1901,1789 2085,1785 2543,1785 2739,1787 2889,1789 3065,1792 3588,1801"/>
+        <Word id="w_w2aab1b1b2b3c17ab1">
+          <Coords points="1018,1689 3589,1689 3589,1831 1018,1831"/>
+          <TextEquiv>
+            <Unicode>ſonne, &amp; que tous me ſçauront gré de ma franchiſe.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
+      <Coords points="971,1832 3803,1832 3803,4933 971,4933"/>
+      <TextLine id="tl_11" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1154,1833 3788,1833 3788,1982 1154,1982"/>
+        <Baseline points="1154,1941 1550,1940 1880,1935 2076,1935 2422,1932 2602,1923 2852,1931 3320,1969 3472,1951 3788,1936"/>
+        <Word id="w_w2aab1b1b2b5b1ab1">
+          <Coords points="1154,1833 3788,1833 3788,1982 1154,1982"/>
+          <TextEquiv>
+            <Unicode>I’ay eſté nourri aux lettres dés mon enfance, &amp; pour¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_12" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="1022,1983 3792,1983 3792,2130 1022,2130"/>
+        <Baseline points="1022,2089 1426,2082 1600,2084 2148,2080 2364,2078 2554,2075 2802,2077 3176,2086 3344,2085 3792,2100"/>
+        <Word id="w_w2aab1b1b2b5b3ab1">
+          <Coords points="1022,1983 3792,1983 3792,2130 1022,2130"/>
+          <TextEquiv>
+            <Unicode>ce qu’on me perſuadoit que par leur moyen on pouuoit</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_13" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="1013,2131 3793,2131 3793,2278 1013,2278"/>
+        <Baseline points="1013,2241 1437,2228 1637,2230 2311,2226 2611,2225 2723,2231 2803,2229 3099,2232 3239,2232 3473,2237 3607,2239 3793,2252"/>
+        <Word id="w_w2aab1b1b2b5b5ab1">
+          <Coords points="1013,2131 3793,2131 3793,2278 1013,2278"/>
+          <TextEquiv>
+            <Unicode>acquerir vne connoiſſance claire &amp; aſſuree de tout ce qui</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_14" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:3;}">
+        <Coords points="1027,2283 3791,2283 3791,2424 1027,2424"/>
+        <Baseline points="1027,2385 1159,2385 1407,2382 1481,2380 1593,2380 1801,2403 2137,2376 2735,2381 3015,2384 3173,2384 3353,2383 3791,2380"/>
+        <Word id="w_w2aab1b1b2b5b7ab1">
+          <Coords points="1027,2283 3791,2283 3791,2424 1027,2424"/>
+          <TextEquiv>
+            <Unicode>eſt vtile a la vie, i’auois vn extreme deſir de les appren¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_15" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:4;}">
+        <Coords points="1028,2421 3791,2421 3791,2562 1028,2562"/>
+        <Baseline points="1028,2527 1219,2523 1531,2522 1807,2523 2215,2520 2589,2525 2843,2525 2979,2526 3273,2529 3790,2560"/>
+        <Word id="w_w2aab1b1b2b5b9ab1">
+          <Coords points="1028,2421 3791,2421 3791,2562 1028,2562"/>
+          <TextEquiv>
+            <Unicode>dre. Mais ſitoſt que i'eu acheué tout ce cours d’eſtudes,</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_16" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:5;}">
+        <Coords points="1026,2569 3790,2569 3790,2712 1026,2712"/>
+        <Baseline points="1026,2675 1136,2671 1396,2670 1764,2665 1914,2665 1984,2667 2578,2667 2844,2665 3146,2668 3310,2671 3582,2711 3790,2680"/>
+        <Word id="w_w2aab1b1b2b5c11ab1">
+          <Coords points="1026,2569 3790,2569 3790,2712 1026,2712"/>
+          <TextEquiv>
+            <Unicode>au bout duquel on a couſtume d'eſtre receu au rang des</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_17" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:6;}">
+        <Coords points="1028,2713 3798,2713 3798,2854 1028,2854"/>
+        <Baseline points="1028,2821 1418,2834 1552,2816 2018,2847 2688,2809 3222,2810 3468,2813 3594,2819 3798,2816"/>
+        <Word id="w_w2aab1b1b2b5c13ab1">
+          <Coords points="1028,2713 3798,2713 3798,2854 1028,2854"/>
+          <TextEquiv>
+            <Unicode>doctes, ie changay entierement d’opinion, car ie me</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_18" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:7;}">
+        <Coords points="1025,2859 3802,2859 3802,2998 1025,2998"/>
+        <Baseline points="1025,2969 1443,2960 1982,2959 2123,2955 2351,2958 2501,2956 2861,2959 2985,2962 3531,2981 3802,2964"/>
+        <Word id="w_w2aab1b1b2b5c15ab1">
+          <Coords points="1025,2859 3802,2859 3802,2998 1025,2998"/>
+          <TextEquiv>
+            <Unicode>trouuois embaraſſé de tant de doutes &amp; d’erreurs, qu’il</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_19" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:8;}">
+        <Coords points="1021,3003 3795,3003 3795,3142 1021,3142"/>
+        <Baseline points="1021,3113 1179,3109 1635,3106 1997,3101 2183,3102 2467,3106 2769,3107 2917,3106 3359,3111 3501,3113 3795,3096"/>
+        <Word id="w_w2aab1b1b2b5c17ab1">
+          <Coords points="1021,3003 3795,3003 3795,3142 1021,3142"/>
+          <TextEquiv>
+            <Unicode>me ſembloit n’auoir fait autre profit en taſchant de m'in¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_20" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:9;}">
+        <Coords points="1022,3157 3799,3157 3799,3294 1022,3294"/>
+        <Baseline points="1022,3259 1367,3233 1659,3252 1871,3255 2203,3252 2747,3255 2895,3258 3143,3258 3287,3257 3523,3259 3799,3262"/>
+        <Word id="w_w2aab1b1b2b5c19ab1">
+          <Coords points="1022,3157 3799,3157 3799,3294 1022,3294"/>
+          <TextEquiv>
+            <Unicode>struire; ſinon que i’auois découuert de plus en plus mon</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_21" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:10;}">
+        <Coords points="1020,3307 3802,3307 3802,3452 1020,3452"/>
+        <Baseline points="1020,3407 1566,3404 2672,3407 3278,3407 3526,3407 3802,3396"/>
+        <Word id="w_w2aab1b1b2b5c21ab1">
+          <Coords points="1020,3307 3802,3307 3802,3452 1020,3452"/>
+          <TextEquiv>
+            <Unicode>ignorance. Et neanmoins i'eſtois en l’vne des plus cele¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_22" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:11;}">
+        <Coords points="1024,3453 3798,3453 3798,3594 1024,3594"/>
+        <Baseline points="1024,3553 1234,3549 1674,3550 1816,3551 2348,3576 2652,3555 3056,3556 3322,3553 3692,3560 3798,3594"/>
+        <Word id="w_w2aab1b1b2b5c23ab1">
+          <Coords points="1024,3453 3798,3453 3798,3594 1024,3594"/>
+          <TextEquiv>
+            <Unicode>bres eſcholes de l’Europe, où ie penſois qu’il deuoit y</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_23" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:12;}">
+        <Coords points="1023,3595 3798,3595 3798,3736 1023,3736"/>
+        <Baseline points="1023,3695 1283,3691 1425,3694 1815,3695 2269,3698 2426,3698 2505,3732 2645,3697 2925,3702 3071,3700 3391,3707 3798,3706"/>
+        <Word id="w_w2aab1b1b2b5c25ab1">
+          <Coords points="1023,3595 3798,3595 3798,3736 1023,3736"/>
+          <TextEquiv>
+            <Unicode>auoir de ſçauans hommes s'il y en auoit en aucun endroit</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_24" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:13;}">
+        <Coords points="1021,3741 3799,3741 3799,3890 1021,3890"/>
+        <Baseline points="1021,3839 1143,3837 1247,3837 1551,3840 1719,3872 1997,3839 2343,3846 2585,3847 2739,3847 2971,3848 3155,3852 3495,3855 3607,3889 3799,3838"/>
+        <Word id="w_w2aab1b1b2b5c27ab1">
+          <Coords points="1021,3741 3799,3741 3799,3890 1021,3890"/>
+          <TextEquiv>
+            <Unicode>de la terre: I’y auois appris tout ce que les autres y ap¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_25" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:14;}">
+        <Coords points="1018,3893 3791,3892 3791,4034 1018,4035"/>
+        <Baseline points="1027,4016 1545,4016 1653,3996 2029,3991 2177,3992 2633,3997 2811,3997 3303,4007 3477,4003 3791,3984"/>
+        <Word id="w_w2aab1b1b2b5c29ab5">
+          <Coords points="1018,3893 3791,3892 3791,4034 1018,4035"/>
+          <TextEquiv>
+            <Unicode>prenoient; &amp; meſme ne m’eſtant pas contenté des scien¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_26" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:15;}">
+        <Coords points="1020,4043 3792,4043 3792,4182 1020,4182"/>
+        <Baseline points="1020,4135 1174,4127 1486,4136 1740,4138 2340,4162 2692,4143 3192,4148 3432,4149 3588,4145 3792,4130"/>
+        <Word id="w_w2aab1b1b2b5c31ab1">
+          <Coords points="1020,4043 3792,4043 3792,4182 1020,4182"/>
+          <TextEquiv>
+            <Unicode>ces qu’on nous enſeignoit, i’auois parcouru tous les ſcien¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_27" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:16;}">
+        <Coords points="1018,4187 3794,4187 3794,4332 1018,4332"/>
+        <Baseline points="1018,4275 1188,4301 1592,4278 1756,4285 2084,4283 2418,4288 2776,4293 2946,4294 3180,4298 3670,4294 3794,4298"/>
+        <Word id="w_w2aab1b1b2b5c33ab1">
+          <Coords points="1018,4187 3794,4187 3794,4332 1018,4332"/>
+          <TextEquiv>
+            <Unicode>ces, traitans de celles qu'on eſtime les plus curieuſes &amp;</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_28" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:17;}">
+        <Coords points="1013,4333 3786,4333 3786,4476 1013,4476"/>
+        <Baseline points="1013,4425 1142,4427 1368,4433 1657,4454 1862,4435 2290,4438 2458,4438 2880,4441 3178,4446 3420,4447 3785,4446"/>
+        <Word id="w_w2aab1b1b2b5c35ab1">
+          <Coords points="1013,4333 3786,4333 3786,4476 1013,4476"/>
+          <TextEquiv>
+            <Unicode>les plus rares, qui auoient pû tomber entre mes mains:</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_29" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:18;}">
+        <Coords points="1017,4477 3789,4477 3789,4626 1017,4626"/>
+        <Baseline points="1017,4585 1619,4580 2185,4582 2727,4585 2957,4590 3133,4588 3481,4595 3789,4572"/>
+        <Word id="w_w2aab1b1b2b5c37ab1">
+          <Coords points="1017,4477 3789,4477 3789,4626 1017,4626"/>
+          <TextEquiv>
+            <Unicode>Auec cela ie ſçauois les iugemens que les autres faiſo¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_30" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:19;}">
+        <Coords points="1010,4629 3787,4629 3787,4772 1010,4772"/>
+        <Baseline points="1011,4719 1347,4723 1465,4726 1627,4754 1755,4735 2009,4731 2371,4736 2661,4735 2969,4738 3787,4728"/>
+        <Word id="w_w2aab1b1b2b5c39ab1">
+          <Coords points="1010,4629 3787,4629 3787,4772 1010,4772"/>
+          <TextEquiv>
+            <Unicode>ient de moy; &amp; ie ne voyois point qu’on m'eſtimaſt infe¬</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_31" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:20;}">
+        <Coords points="1010,4785 3790,4785 3790,4932 1010,4932"/>
+        <Baseline points="1010,4873 1252,4877 1322,4885 1542,4884 2208,4916 2696,4893 2800,4927 2958,4898 3188,4900 3486,4897 3790,4890"/>
+        <Word id="w_w2aab1b1b2b5c41ab1">
+          <Coords points="1010,4785 3790,4785 3790,4932 1010,4932"/>
+          <TextEquiv>
+            <Unicode>rieur a mes condiſciples, bienqu’il y en euſt deſia entre</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_4" custom="readingOrder {index:3;}">
+      <Coords points="3611,4966 3791,4966 3791,5035 3611,5035"/>
+      <TextLine id="tl_32" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="3612,4967 3790,4967 3790,5034 3612,5034"/>
+        <Baseline points="3612,5034 3790,5030"/>
+        <Word id="w_w2aab1b1b2b7b1ab1">
+          <Coords points="3612,4967 3790,4967 3790,5034 3612,5034"/>
+          <TextEquiv>
+            <Unicode>eux</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <SeparatorRegion id="r_2" custom="readingOrder {index:4;}">
+            <Coords points="1,5746 4265,5746 4265,5758 1,5758"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_3" custom="readingOrder {index:5;}">
+            <Coords points="4198,420 4215,420 4215,992 4198,992"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>
