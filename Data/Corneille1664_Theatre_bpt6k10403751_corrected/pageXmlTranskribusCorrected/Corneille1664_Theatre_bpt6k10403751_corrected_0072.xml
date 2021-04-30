@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2018-11-08T18:17:36.374+01:00</Created>
+        <LastChange>2018-11-08T18:22:54.739+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="194228" pageId="7653755" pageNr="72" tsid="13550223" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=ADWYUQIROPUSZRHWECWIUURG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYOJOJUOQHHBCNZEDRYXMZYQ" imageId="2059094"/>
+    </Metadata>
+  <Page imageFilename="Corneille1664_Theatre_bpt6k10403751_corrected_0072.png" imageWidth="4267" imageHeight="6667">
+    <PrintSpace>
+            <Coords points="77,63 4267,63 4267,6560 77,6560"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604236235643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_2"/>
+                <RegionRefIndexed index="1" regionRef="r_1_3"/>
+                <RegionRefIndexed index="2" regionRef="r_1_4"/>
+                <RegionRefIndexed index="3" regionRef="r_1_5"/>
+                <RegionRefIndexed index="4" regionRef="r_1_6"/>
+                <RegionRefIndexed index="5" regionRef="r_1_7"/>
+                <RegionRefIndexed index="6" regionRef="r_1_8"/>
+                <RegionRefIndexed index="7" regionRef="r_1_9"/>
+                <RegionRefIndexed index="8" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:0;}">
+      <Coords points="1419,1446 3446,1446 3446,1665 1419,1665"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1420,1447 3445,1447 3445,1664 1420,1664"/>
+        <Baseline points="1420,1656 1629,1656 1933,1649 2229,1658 2525,1660 2845,1661 3165,1663 3444,1664"/>
+        <Word id="w_w2aab1b1b2b3b1ab1">
+          <Coords points="1420,1447 3445,1447 3445,1664 1420,1664"/>
+          <TextEquiv>
+            <Unicode>ACTEVRS.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:1;}">
+      <Coords points="976,1850 3181,1850 3181,1993 976,1993"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="977,1851 3180,1851 3180,1992 977,1992"/>
+        <Baseline points="978,1954 1206,1961 1358,1951 1644,1959 1774,1955 1834,1986 2548,1963 2720,1964 2974,1965 3180,1968"/>
+        <Word id="w_w2aab1b1b2b5b1ab1">
+          <Coords points="977,1851 3180,1851 3180,1992 977,1992"/>
+          <TextEquiv>
+            <Unicode>ERASTE, Amoureux de Melite.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_4" custom="readingOrder {index:2;}">
+      <Coords points="968,2120 3464,2120 3464,2543 968,2543"/>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="974,2121 3463,2121 3463,2277 974,2277"/>
+        <Baseline points="974,2230 1339,2233 1483,2228 1774,2259 2155,2271 2675,2238 2849,2254 3067,2241 3462,2249"/>
+        <Word id="w_w2aab1b1b2b7b1ab1">
+          <Coords points="974,2121 3463,2121 3463,2277 974,2277"/>
+          <TextEquiv>
+            <Unicode>TIRCIS, Amy d'Eraste &amp; ſon Rival.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="969,2399 3265,2399 3265,2542 969,2542"/>
+        <Baseline points="969,2502 1063,2502 2715,2516 2879,2515 3265,2522"/>
+        <Word id="w_w2aab1b1b2b7b3ab1">
+          <Coords points="969,2399 3265,2399 3265,2542 969,2542"/>
+          <TextEquiv>
+            <Unicode>PHILDANDRE, Amant de Cloris.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_5" custom="readingOrder {index:3;}">
+      <Coords points="958,2662 3709,2662 3709,2826 958,2826"/>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="959,2663 3708,2663 3708,2825 959,2825"/>
+        <Baseline points="960,2776 1140,2776 2462,2785 2976,2793 3148,2796 3310,2797 3570,2802 3708,2805"/>
+        <Word id="w_w2aab1b1b2b9b1ab1">
+          <Coords points="959,2663 3708,2663 3708,2825 959,2825"/>
+          <TextEquiv>
+            <Unicode>MELITE, Maiſtreſſe d’Eraste &amp; de Tircis.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_6" custom="readingOrder {index:4;}">
+      <Coords points="963,2944 2686,2944 2686,3085 963,3085"/>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="964,2945 2685,2945 2685,3084 964,3084"/>
+        <Baseline points="964,3050 1049,3050 1313,3053 1573,3052 1687,3061 1726,3079 2133,3057 2295,3058 2451,3063 2684,3066"/>
+        <Word id="w_w2aab1b1b2c11b1ab1">
+          <Coords points="964,2945 2685,2945 2685,3084 964,3084"/>
+          <TextEquiv>
+            <Unicode>CLORIS, Sœur de Tircis.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_7" custom="readingOrder {index:5;}">
+      <Coords points="950,3218 2557,3218 2557,3374 950,3374"/>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="951,3219 2556,3219 2556,3373 951,3373"/>
+        <Baseline points="951,3322 1051,3322 1173,3322 1295,3331 1417,3328 1543,3334 1611,3352 1981,3370 2155,3331 2555,3339"/>
+        <Word id="w_w2aab1b1b2c13b1ab1">
+          <Coords points="951,3219 2556,3219 2556,3373 951,3373"/>
+          <TextEquiv>
+            <Unicode>LISIS, Amy de Tircis.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_8" custom="readingOrder {index:6;}">
+      <Coords points="951,3496 2903,3496 2903,3638 951,3638"/>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="952,3497 2902,3497 2902,3637 952,3637"/>
+        <Baseline points="952,3596 1036,3596 1304,3595 1452,3596 1764,3609 1812,3631 2268,3608 2438,3608 2798,3618 2902,3621"/>
+        <Word id="w_w2aab1b1b2c15b1ab1">
+          <Coords points="952,3497 2902,3497 2902,3637 952,3637"/>
+          <TextEquiv>
+            <Unicode>CLITON, Voiſin de Melite.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_9" custom="readingOrder {index:7;}">
+      <Coords points="941,3764 2916,3764 2916,3890 941,3890"/>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="942,3765 2915,3765 2915,3889 942,3889"/>
+        <Baseline points="942,3866 1045,3866 1443,3878 2455,3879 2914,3889"/>
+        <Word id="w_w2aab1b1b2c17b1ab1">
+          <Coords points="942,3765 2915,3765 2915,3889 942,3889"/>
+          <TextEquiv>
+            <Unicode>LA NOVRRICE de Melite.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:8;}">
+      <Coords points="1849,4207 2920,4207 2920,4328 1849,4328"/>
+      <TextLine id="tl_11" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1850,4208 2919,4208 2919,4327 1850,4327"/>
+        <Baseline points="1850,4312 1999,4312 2345,4316 2525,4321 2611,4325 2918,4321"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="1850,4208 2919,4208 2919,4327 1850,4327"/>
+          <TextEquiv>
+            <Unicode>La Scene eſt à Paris.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="Graphic_1541697548138_549" custom="readingOrder {index:12;}">
+            <Coords points="982,1060 3887,1060 3887,1361 982,1361"/>
+        </GraphicRegion>
+    <SeparatorRegion id="r_3" custom="readingOrder {index:9;}">
+            <Coords points="104,63 4024,63 4024,111 104,111"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_4" custom="readingOrder {index:10;}">
+            <Coords points="77,80 116,80 116,6560 77,6560"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_5" custom="readingOrder {index:11;}">
+            <Coords points="4254,92 4267,92 4267,1504 4254,1504"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>

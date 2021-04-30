@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Corneille1664_Theatre_bpt6k10403751_corrected_0071.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT169" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT170" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT171" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT172" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT173" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT174" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT175" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT176" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT177" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT178" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT179" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT180" LABEL="Table" DESCRIPTION="block type Table"/>
+    <OtherTag ID="LT75" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT76" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT77" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT78" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT79" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4267"
+          HEIGHT="6626"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4267"
+                  HEIGHT="6626">
+        
+        <TextBlock HPOS="380"
+                   VPOS="2424"
+                   WIDTH="3030"
+                   HEIGHT="1052"
+                   ID="eSc_textblock_4cdf3714"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="380 2424 380 3476 3410 3476 3410 2424"/></Shape>
+          
+          
+          <TextLine ID="tl_1"
+                    TAGREFS="LT75"
+                    BASELINE="446 2871 835 2871 1330 2862 1834 2856 2194 2849 2730 2845 3322 2841" 
+                    HPOS="446"
+                    VPOS="2505"
+                    WIDTH="2876"
+                    HEIGHT="374">
+            <Shape><Polygon POINTS="446 2505 3322 2505 3322 2879 446 2879"/></Shape>
+	    <String CONTENT="MELITE,"
+                    HPOS="446"
+                    VPOS="2505"
+                    WIDTH="2876"
+                    HEIGHT="374"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="tl_2"
+                    TAGREFS="LT75"
+                    BASELINE="878 3329 2888 3287" 
+                    HPOS="878"
+                    VPOS="3103"
+                    WIDTH="2011"
+                    HEIGHT="242">
+            <Shape><Polygon POINTS="878 3103 2889 3103 2889 3345 878 3345"/></Shape>
+	    <String CONTENT="COMEDIE."
+                    HPOS="878"
+                    VPOS="3103"
+                    WIDTH="2011"
+                    HEIGHT="242"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
