@@ -1,7 +1,7 @@
 # 17<b><sup>th</sup></b> century printed books dataset
 
 ## Description
-In ``Data`` directory, are to be found two 17<sup>th</sup> century printed books from the recognition of 17<sup>th</sup> century printers project in ALTO4 and png. The ALTO files come from E-ditiones' repository [OCR17plus](https://github.com/e-ditiones/OCR17plus). They also were prepared in [eScriptorium](http://traces6.paris.inria.fr/).
+In ``Data`` directory, are to be found six 17<sup>th</sup> century printed books from the recognition of 17<sup>th</sup> century printers project in different xml files and png. All the explainations can be found in books' directories in a README file.
 
 ``build_train_alto_OCR17dataset100.sh`` is a script to create a 218 files dataset (png and ALTO4) to train an recognizer model. 
 
