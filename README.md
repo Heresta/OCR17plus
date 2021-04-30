@@ -84,6 +84,10 @@ Books used :
   <li><i>Le théâtre de P. Corneille, revu par l'auteur. Partie 1</i> de Pierre Corneille (book published in 1664) (https://gallica.bnf.fr/ark:/12148/bpt6k10403751.image)</li>
 </ul>
 
+## Contacts
+Claire Jahan : claire.jahan@chartes.psl.eu
+Simon Gabay : Simon.Gabay@unige.ch
+
 ## Cite this dataset
 Claire Jahan and Simon Gabay and , _17<sup>th</sup> century printed books (ALTO, PAGE-XML and png)_, 2021, Paris: ENS Paris,  https://github.com/Heresta/imprimeurs_pipeline.
 
