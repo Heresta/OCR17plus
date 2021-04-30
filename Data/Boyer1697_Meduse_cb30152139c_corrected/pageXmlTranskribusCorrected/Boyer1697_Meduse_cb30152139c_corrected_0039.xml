@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-01-31T09:39:37.543+01:00</Created>
+        <LastChange>2019-01-31T09:47:55.426+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="188203" pageId="7475977" pageNr="39" tsid="13140591" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=XXAKPZAAVQXOZJNQJCAYRSNZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EXJBLJORJGEFUENECYTKJHHY" imageId="2612573"/>
+    </Metadata>
+  <Page imageFilename="Boyer1697_Meduse_cb30152139c_corrected_0039.png" imageWidth="3854" imageHeight="5360">
+    <PrintSpace>
+            <Coords points="189,263 3854,263 3854,4971 189,4971"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604224912397" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+                <RegionRefIndexed index="5" regionRef="r_6_1"/>
+                <RegionRefIndexed index="6" regionRef="r_6_2"/>
+                <RegionRefIndexed index="7" regionRef="r_6_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="2877,295 2992,295 2992,388 2877,388"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="2878,296 2991,296 2991,387 2878,387"/>
+        <Baseline points="2878,379 2991,387"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="2878,296 2991,296 2991,387 2878,387"/>
+          <TextEquiv>
+            <Unicode>37</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="6.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+      <Coords points="388,1328 2801,1328 2801,1649 388,1649"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="389,1329 2800,1329 2800,1648 389,1648"/>
+        <Baseline points="389,1640 1952,1619 2800,1601"/>
+        <Word id="w_w2aab1b5b2b1b1ab1">
+          <Coords points="389,1329 2800,1329 2800,1648 389,1648"/>
+          <TextEquiv>
+            <Unicode>ACTE IV.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="21.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+      <Coords points="375,1725 2829,1725 2829,2287 375,2287"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="376,1726 2828,1726 2828,1925 376,1925"/>
+        <Baseline points="376,1889 553,1878 1045,1876 1347,1871 1761,1871 1979,1867 2503,1866 2827,1866"/>
+        <Word id="w_w2aab1b7b2b1b1ab1">
+          <Coords points="376,1726 2828,1726 2828,1925 376,1925"/>
+          <TextEquiv>
+            <Unicode>La Scene eſt dans le Jardin des</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="526,1911 2669,1911 2669,2108 526,2108"/>
+        <Baseline points="526,2062 1361,2078 1823,2048 2103,2047 2669,2048"/>
+        <Word id="w_w2aab1b7b2b1b3ab1">
+          <Coords points="526,1911 2669,1911 2669,2108 526,2108"/>
+          <TextEquiv>
+            <Unicode>Heſperides, dont les Arbres</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="685,2093 2505,2093 2505,2286 685,2286"/>
+        <Baseline points="686,2286 1205,2232 1481,2233 2133,2229 2505,2227"/>
+        <Word id="w_w2aab1b7b2b1b5ab1">
+          <Coords points="685,2093 2505,2093 2505,2286 685,2286"/>
+          <TextEquiv>
+            <Unicode>portent des Pommes d’or.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;}">
+      <Coords points="226,2548 3006,2548 3006,2761 226,2761"/>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="227,2549 3005,2549 3005,2760 227,2760"/>
+        <Baseline points="227,2748 1201,2740 3004,2701"/>
+        <Word id="w_w2aab1b9b2b1b1ab1">
+          <Coords points="227,2549 3005,2549 3005,2760 227,2760"/>
+          <TextEquiv>
+            <Unicode>SCENE PREMIERE.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:5;}">
+      <Coords points="589,2868 2636,2868 2636,3179 589,3179"/>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="590,2869 2635,2869 2635,3008 590,3008"/>
+        <Baseline points="590,2992 1519,3000 2635,2973"/>
+        <Word id="w_w2aab1c11b2b1b1ab1">
+          <Coords points="590,2869 2635,2869 2635,3008 590,3008"/>
+          <TextEquiv>
+            <Unicode>MEDUSE, ORPHISE.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="1248,3071 1961,3071 1961,3178 1248,3178"/>
+        <Baseline points="1248,3174 1961,3167"/>
+        <Word id="w_w2aab1c11b2b1b3ab1">
+          <Coords points="1248,3071 1961,3071 1961,3178 1248,3178"/>
+          <TextEquiv>
+            <Unicode>MEDUSE.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_6_2" custom="readingOrder {index:6;}">
+      <Coords points="672,3245 2827,3247 2827,3606 672,3604"/>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="674,3247 2826,3248 2826,3448 674,3447"/>
+        <Baseline points="684,3388 1054,3379 1236,3378 1480,3372 1734,3369 1850,3370 2132,3371 2540,3377 2825,3338"/>
+        <Word id="w_w2aab1c11b2b3b1b1b1">
+          <Coords points="674,3247 2826,3248 2826,3448 674,3447"/>
+          <TextEquiv>
+            <Unicode>Eptune répond mal à mon impatience;</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_11" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="1213,3502 1990,3502 1990,3605 1213,3605"/>
+        <Baseline points="1213,3601 1990,3592"/>
+        <Word id="w_w2aab1c11b2b3b3ab1">
+          <Coords points="1213,3502 1990,3502 1990,3605 1213,3605"/>
+          <TextEquiv>
+            <Unicode>ORPHISE.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="6.5" bold="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_6_3" custom="readingOrder {index:7;}">
+      <Coords points="630,3702 2544,3702 2544,3892 630,3892"/>
+      <TextLine id="tl_12" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="631,3703 2543,3703 2543,3891 631,3891"/>
+        <Baseline points="631,3859 877,3889 1112,3831 1408,3826 1902,3823 2110,3823 2542,3825"/>
+        <Word id="w_w2aab1c11b2b5b1ab1">
+          <Coords points="631,3703 2543,3703 2543,3891 631,3891"/>
+          <TextEquiv>
+            <Unicode>Neptune enfin remplira ſon devoir.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="6.0" bold="true" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="268,394 3092,394 3092,1229 268,1229"/>
+        </GraphicRegion>
+    <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="657,522 1465,522 1465,542 657,542"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1343,1099 1791,1099 1791,1119 1343,1119"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="304,513 336,513 336,1189 304,1189"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="343,685 360,685 360,1193 343,1193"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="3828,3771 3854,3771 3854,4971 3828,4971"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>
