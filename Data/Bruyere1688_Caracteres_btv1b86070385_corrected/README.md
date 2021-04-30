@@ -1,4 +1,4 @@
-# About _<i>Les caractères de Théophraste, traduits du grec, avec Les caractères ou les moeurs de ce siècle_ 
+# About _Les caractères de Théophraste, traduits du grec, avec Les caractères ou les moeurs de ce siècle_ 
 
 ## Original
 _Les caractères de Théophraste, traduits du grec, avec Les caractères ou les moeurs de ce siècle_ translated by Jean de La Bruyère (book published in 1688) (https://gallica.bnf.fr/ark:/12148/btv1b86070385/)
