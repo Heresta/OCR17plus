@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-01-18T16:55:48.827+01:00</Created>
+        <LastChange>2019-06-01T19:09:10.990+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="162900" pageId="5992300" pageNr="20" tsid="10734315" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=TBSNBBOXEUAIDFNFYBCGDNAB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HHKOBSVBKJWVBANXUDMZEWEV" imageId="2072357"/>
+    </Metadata>
+    <Page imageFilename="Bruyere1688_Caracteres_btv1b86070385_corrected_0020.png" imageWidth="4267" imageHeight="7210">
+        <PrintSpace>
+            <Coords points="1016,288 3999,288 3999,5958 1016,5958"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604222108711" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_1_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="2148,345 2874,345 2874,627 2148,627"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="2149,346 2873,346 2873,626 2149,626"/>
+                <Baseline points="2152,535 2870,542"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="2152,352 2870,352 2870,616 2152,616"/>
+                    <TextEquiv>
+                        <Unicode>Difcôurs</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.5" italic="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Diſcours</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Diſcours</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+            <Coords points="1093,582 3934,582 3934,5920 1093,5920"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1198,583 3909,583 3909,928 1198,928"/>
+                <Baseline points="1198,854 2411,801 3107,813 3904,872"/>
+                <Word id="w_w2aab1b1b2b3b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1198,622 2411,622 2411,879 1198,879"/>
+                    <TextEquiv>
+                        <Unicode>quatre-vingt</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b1ac27" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="2486,638 3107,638 3107,883 2486,883"/>
+                    <TextEquiv>
+                        <Unicode>quinze</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b1ac41" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="3160,649 3904,649 3904,902 3160,902"/>
+                    <TextEquiv>
+                        <Unicode>années,*</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>quatre-vingt quinze années,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="1195,843 3933,843 3933,1185 1195,1185"/>
+                <Baseline points="1197,1038 1308,1038 1996,1045 2360,1056 3319,1079 3833,1086 3929,1085"/>
+                <Word id="w_w2aab1b1b2b3b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1197,853 1432,853 1432,1038 1197,1038"/>
+                    <TextEquiv>
+                        <Unicode>gu</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.5" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b3b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1573,857 1996,857 1996,1045 1573,1045"/>
+                    <TextEquiv>
+                        <Unicode>dans</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b3b1c11" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2117,869 2360,869 2360,1056 2117,1056"/>
+                    <TextEquiv>
+                        <Unicode>les</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b3b1c19" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2498,910 3319,910 3319,1147 2498,1147"/>
+                    <TextEquiv>
+                        <Unicode>premiers</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b3b1c37" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3480,984 3833,984 3833,1104 3480,1104"/>
+                    <TextEquiv>
+                        <Unicode>ma-</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b3b1c45" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="3904,1064 3929,1064 3929,1085 3904,1085"/>
+                    <TextEquiv>
+                        <Unicode>•</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ou dans les premiers ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="1191,1099 3838,1099 3838,1438 1191,1438"/>
+                <Baseline points="1193,1294 1916,1303 2362,1320 2824,1329 3320,1347 3835,1374"/>
+                <Word id="w_w2aab1b1b2b3b5ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1193,1110 1916,1110 1916,1306 1193,1306"/>
+                    <TextEquiv>
+                        <Unicode>nufcrits</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b5ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="2059,1154 2362,1154 2362,1391 2059,1391"/>
+                    <TextEquiv>
+                        <Unicode>qui</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b5ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2505,1211 2824,1211 2824,1331 2505,1331"/>
+                    <TextEquiv>
+                        <Unicode>ont</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b5ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2961,1154 3320,1154 3320,1347 2961,1347"/>
+                    <TextEquiv>
+                        <Unicode>elle</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b5ac45" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3424,1163 3835,1163 3835,1376 3424,1376"/>
+                    <TextEquiv>
+                        <Unicode>faits</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>nuſcrits qui ont eſté faits</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="1184,1363 3834,1363 3834,1702 1184,1702"/>
+                <Baseline points="1186,1554 1409,1557 1733,1566 2677,1585 2764,1624 3067,1596 3370,1609 3832,1702"/>
+                <Word id="w_w2aab1b1b2b3b7ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1186,1375 1409,1375 1409,1557 1186,1557"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b7ab7" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1461,1452 1733,1452 1733,1573 1461,1573"/>
+                    <TextEquiv>
+                        <Unicode>cet</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b7ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1770,1391 2677,1391 2677,1585 1770,1585"/>
+                    <TextEquiv>
+                        <Unicode>Hiftorien</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b7ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2720,1495 2764,1495 2764,1624 2720,1624"/>
+                    <TextEquiv>
+                        <Unicode>5</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b7ac39" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="2797,1415 3067,1415 3067,1611 2797,1611"/>
+                    <TextEquiv>
+                        <Unicode>s’il</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b7ac49" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="3129,1426 3370,1426 3370,1609 3129,1609"/>
+                    <TextEquiv>
+                        <Unicode>cil</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b7ac57" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="3437,1502 3832,1502 3832,1702 3437,1702"/>
+                    <TextEquiv>
+                        <Unicode>vray</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de cet Hiſtorien; s’il eſt vray</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="1180,1627 3883,1627 3883,1968 1180,1968"/>
+                <Baseline points="1182,1818 2029,1835 2497,1844 2949,1857 3697,1882 3879,1852"/>
+                <Word id="w_w2aab1b1b2b3b9ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1182,1631 2029,1631 2029,1835 1182,1835"/>
+                    <TextEquiv>
+                        <Unicode>d’ailleurs</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b9ac23" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="2156,1730 2497,1730 2497,1918 2156,1918"/>
+                    <TextEquiv>
+                        <Unicode>que</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b9ac31" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2710,1670 2949,1670 2949,1859 2710,1859"/>
+                    <TextEquiv>
+                        <Unicode>les</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b9ac39" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="3107,1754 3697,1754 3697,1949 3107,1949"/>
+                    <TextEquiv>
+                        <Unicode>quatre</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b9ac53" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3757,1824 3879,1824 3879,1903 3757,1903"/>
+                    <TextEquiv>
+                        <Unicode>r-</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>d’ailleurs que les quatre¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="1177,1879 3823,1879 3823,2234 1177,2234"/>
+                <Baseline points="1179,2086 1698,2093 2688,2114 3029,2127 3485,2148 3821,2154"/>
+                <Word id="w_w2aab1b1b2b3c11ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1179,1910 1698,1910 1698,2171 1179,2171"/>
+                    <TextEquiv>
+                        <Unicode>vingt</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c11ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1815,1909 2688,1909 2688,2114 1815,2114"/>
+                    <TextEquiv>
+                        <Unicode>dix-neuf</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c11ac31" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2722,2007 3029,2007 3029,2127 2722,2127"/>
+                    <TextEquiv>
+                        <Unicode>ans</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c11ac39" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="3140,2019 3485,2019 3485,2210 3140,2210"/>
+                    <TextEquiv>
+                        <Unicode>que</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c11ac47" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3558,2035 3821,2035 3821,2156 3558,2156"/>
+                    <TextEquiv>
+                        <Unicode>cet</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>vingt dix-neuf ans que cet</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="1183,2151 3832,2151 3832,2418 1183,2418"/>
+                <Baseline points="1183,2347 1850,2354 2122,2362 2822,2374 3369,2393 3828,2382"/>
+                <Word id="w_w2aab1b1b2b3c13ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1183,2167 1850,2167 1850,2359 1183,2359"/>
+                    <TextEquiv>
+                        <Unicode>Auteur</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c13ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1955,2173 2122,2173 2122,2364 1955,2364"/>
+                    <TextEquiv>
+                        <Unicode>fe</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c13ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2223,2185 2822,2185 2822,2379 2223,2379"/>
+                    <TextEquiv>
+                        <Unicode>donne</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c13ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2939,2205 3397,2205 3397,2397 2939,2397"/>
+                    <TextEquiv>
+                        <Unicode>dans-</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c13ac45" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3486,2290 3828,2290 3828,2412 3486,2412"/>
+                    <TextEquiv>
+                        <Unicode>cet¬</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Auteur ſe donne dans cet¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="1173,2403 3808,2403 3808,2758 1173,2758"/>
+                <Baseline points="1176,2601 1351,2604 2150,2626 2555,2634 3158,2663 3804,2646"/>
+                <Word id="w_w2aab1b1b2b3c15ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1176,2483 1351,2483 1351,2604 1176,2604"/>
+                    <TextEquiv>
+                        <Unicode>te</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c15ab7" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1460,2424 2150,2424 2150,2626 1460,2626"/>
+                    <TextEquiv>
+                        <Unicode>Préfacé</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c15ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2218,2441 2555,2441 2555,2678 2218,2678"/>
+                    <TextEquiv>
+                        <Unicode>,.fe</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c15ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2647,2449 3158,2449 3158,2663 2647,2663"/>
+                    <TextEquiv>
+                        <Unicode>lifent</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c15ac47" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3231,2474 3804,2474 3804,2748 3231,2748"/>
+                    <TextEquiv>
+                        <Unicode>égale¬</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>te Preface, ſe liſent égale¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="1162,2679 3801,2679 3801,3010 1162,3010"/>
+                <Baseline points="1164,2868 1659,2877 2239,2893 3003,2911 3798,2906"/>
+                <Word id="w_w2aab1b1b2b3c17ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1164,2750 1659,2750 1659,2877 1164,2877"/>
+                    <TextEquiv>
+                        <Unicode>ment</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c17ac11" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1812,2697 2239,2697 2239,2893 1812,2893"/>
+                    <TextEquiv>
+                        <Unicode>dans</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c17ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2410,2786 3003,2786 3003,2973 2410,2973"/>
+                    <TextEquiv>
+                        <Unicode>quatre</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c17ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="3103,2754 3798,2754 3798,2942 3103,2942"/>
+                    <TextEquiv>
+                        <Unicode>manul^</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ment dans quatre manuſ¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="1151,2934 3801,2934 3801,3278 1151,3278"/>
+                <Baseline points="1153,3127 1552,3130 1840,3138 2068,3144 3299,3184 3798,3206"/>
+                <Word id="w_w2aab1b1b2b3c19ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1153,2964 1552,2964 1552,3131 1153,3131"/>
+                    <TextEquiv>
+                        <Unicode>dits</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c19ac11" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1621,2952 1840,2952 1840,3139 1621,3139"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c19ac17" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1889,2959 2068,2959 2068,3145 1889,3145"/>
+                    <TextEquiv>
+                        <Unicode>là</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c19ac23" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2105,2967 3299,2967 3299,3258 2105,3258"/>
+                    <TextEquiv>
+                        <Unicode>Bibliothèque</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c19ac49" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3332,3007 3798,3007 3798,3206 3332,3206"/>
+                    <TextEquiv>
+                        <Unicode>Pala-t</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>crits de la Bibliotheque Pala¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="1131,3198 3806,3198 3806,3542 1131,3542"/>
+                <Baseline points="1133,3384 1508,3392 1576,3426 2030,3407 2246,3417 3080,3441 3240,3446 3802,3454"/>
+                <Word id="w_w2aab1b1b2b3c21ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1133,3220 1508,3220 1508,3392 1133,3392"/>
+                    <TextEquiv>
+                        <Unicode>tine</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c21ac11" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1532,3293 1576,3293 1576,3426 1532,3426"/>
+                    <TextEquiv>
+                        <Unicode>j</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c21ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1618,3224 2030,3224 2030,3410 1618,3410"/>
+                    <TextEquiv>
+                        <Unicode>.c’eft</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c21ac29" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2081,3227 2246,3227 2246,3417 2081,3417"/>
+                    <TextEquiv>
+                        <Unicode>là</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c21ac35" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="2319,3247 3080,3247 3080,3503 2319,3503"/>
+                    <TextEquiv>
+                        <Unicode>quel’on</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c21ac51" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="3145,3331 3240,3331 3240,3446 3145,3446"/>
+                    <TextEquiv>
+                        <Unicode>a</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c21ac55" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="3312,3328 3802,3328 3802,3463 3312,3463"/>
+                    <TextEquiv>
+                        <Unicode>trou¬</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>tine; c’eſt là que l’on a trou¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="1132,3454 3794,3454 3794,3806 1132,3806"/>
+                <Baseline points="1134,3653 1347,3652 1669,3657 2197,3756 3048,3701 3791,3722"/>
+                <Word id="w_w2aab1b1b2b3c23ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1134,3458 1347,3458 1347,3653 1134,3653"/>
+                    <TextEquiv>
+                        <Unicode>vé</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c23ab7" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1426,3470 1669,3470 1669,3659 1426,3659"/>
+                    <TextEquiv>
+                        <Unicode>les</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c23ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1782,3507 2197,3507 2197,3756 1782,3756"/>
+                    <TextEquiv>
+                        <Unicode>cinq</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c23ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2293,3503 3048,3503 3048,3712 2293,3712"/>
+                    <TextEquiv>
+                        <Unicode>derniers</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c23ac43" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3121,3520 3791,3520 3791,3801 3121,3801"/>
+                    <TextEquiv>
+                        <Unicode>Ghapi-</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>vé les cinq derniers Chapi¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="1134,3726 3783,3726 3783,4002 1134,4002"/>
+                <Baseline points="1134,3916 1465,3915 1821,3930 2841,3967 3137,3967 3780,3966"/>
+                <Word id="w_w2aab1b1b2b3c25ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1134,3794 1465,3794 1465,3916 1134,3916"/>
+                    <TextEquiv>
+                        <Unicode>très</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c25ac11" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1534,3738 1821,3738 1821,3930 1534,3930"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c25ac19" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1862,3767 2841,3767 2841,3967 1862,3967"/>
+                    <TextEquiv>
+                        <Unicode>Caraéteres</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c25ac41" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2918,3781 3137,3781 3137,3968 2918,3968"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c25ac47" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3169,3789 3780,3789 3780,3999 3169,3999"/>
+                    <TextEquiv>
+                        <Unicode>Théo*</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>tres des Caracteres de Theo¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="1124,3986 3831,3986 3831,4331 1124,4331"/>
+                <Baseline points="1124,4257 1798,4193 2167,4204 3365,4242 3827,4243"/>
+                <Word id="w_w2aab1b1b2b3c27ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1124,3989 1798,3989 1798,4257 1124,4257"/>
+                    <TextEquiv>
+                        <Unicode>phrafte</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c27ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1860,4038 2167,4038 2167,4274 1860,4274"/>
+                    <TextEquiv>
+                        <Unicode>qui</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c27ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2210,4064 3365,4064 3365,4301 2210,4301"/>
+                    <TextEquiv>
+                        <Unicode>manquoient</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c27ac47" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="3454,4129 3827,4129 3827,4254 3454,4254"/>
+                    <TextEquiv>
+                        <Unicode>aux.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>phraſte qui manquoient aux</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="1121,4250 3772,4250 3772,4598 1121,4598"/>
+                <Baseline points="1123,4437 2050,4464 3297,4492 3451,4549 3771,4526"/>
+                <Word id="w_w2aab1b1b2b3c29ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1123,4280 2050,4280 2050,4464 1123,4464"/>
+                    <TextEquiv>
+                        <Unicode>anciennes</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c29ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="2223,4299 3297,4299 3297,4564 2223,4564"/>
+                    <TextEquiv>
+                        <Unicode>imprdlions</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c29ac43" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="3397,4471 3451,4471 3451,4549 3397,4549"/>
+                    <TextEquiv>
+                        <Unicode>,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c29ac47" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="3598,4357 3771,4357 3771,4526 3598,4526"/>
+                    <TextEquiv>
+                        <Unicode>&amp;</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>anciennes impreſſions, &amp;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="1118,4514 3760,4514 3760,4849 1118,4849"/>
+                <Baseline points="1118,4777 1944,4722 2098,4726 2540,4747 3112,4755 3756,4821"/>
+                <Word id="w_w2aab1b1b2b3c31ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1118,4525 1944,4525 1944,4777 1118,4777"/>
+                    <TextEquiv>
+                        <Unicode>quel’on,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c31ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="2003,4619 2098,4619 2098,4726 2003,4726"/>
+                    <TextEquiv>
+                        <Unicode>a</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c31ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2239,4634 2540,4634 2540,4747 2239,4747"/>
+                    <TextEquiv>
+                        <Unicode>vu.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c31ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2607,4565 3112,4565 3112,4761 2607,4761"/>
+                    <TextEquiv>
+                        <Unicode>deux,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c31ac43" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3191,4595 3756,4595 3756,4821 3191,4821"/>
+                    <TextEquiv>
+                        <Unicode>titres,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>que l’on a vû deux titres,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="1106,4778 3800,4778 3800,5127 1106,5127"/>
+                <Baseline points="1108,4963 1479,4972 1835,4986 2399,5003 3014,5024 3246,5027 3796,5035"/>
+                <Word id="w_w2aab1b1b2b3c33ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1108,4778 1479,4778 1479,4972 1108,4972"/>
+                    <TextEquiv>
+                        <Unicode>l’un</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c33ac11" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1596,4796 1835,4796 1835,4986 1596,4986"/>
+                    <TextEquiv>
+                        <Unicode>du</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c33ac17" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1953,4821 2399,4821 2399,5077 1953,5077"/>
+                    <TextEquiv>
+                        <Unicode>goût</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c33ac27" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2481,4852 3014,4852 3014,5092 2481,5092"/>
+                    <TextEquiv>
+                        <Unicode>qu’on</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c33ac39" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3151,4920 3246,4920 3246,5027 3151,5027"/>
+                    <TextEquiv>
+                        <Unicode>a</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c33ac43" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="3329,4921 3796,4921 3796,5113 3329,5113"/>
+                    <TextEquiv>
+                        <Unicode>pour.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>l’un du goût qu’on a pour</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="1094,5042 3749,5042 3749,5385 1094,5385"/>
+                <Baseline points="1097,5232 1340,5224 2141,5307 3019,5284 3299,5296 3747,5301"/>
+                <Word id="w_w2aab1b1b2b3c35ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1097,5042 1340,5042 1340,5232 1097,5232"/>
+                    <TextEquiv>
+                        <Unicode>les</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c35ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1384,5069 2141,5069 2141,5307 1384,5307"/>
+                    <TextEquiv>
+                        <Unicode>vicieux,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c35ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2428,5088 3019,5088 3019,5285 2428,5285"/>
+                    <TextEquiv>
+                        <Unicode>l’autre</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c35ac43" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="3064,5106 3299,5106 3299,5296 3064,5296"/>
+                    <TextEquiv>
+                        <Unicode>du</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c35ac49" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="3333,5140 3747,5140 3747,5377 3333,5377"/>
+                    <TextEquiv>
+                        <Unicode>gain</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>les vicieux, l’autre du gain</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="1099,5298 3738,5298 3738,5645 1099,5645"/>
+                <Baseline points="1101,5489 1788,5501 1906,5561 2337,5529 2840,5543 3485,5610 3736,5577"/>
+                <Word id="w_w2aab1b1b2b3c37ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1101,5298 1788,5298 1788,5502 1101,5502"/>
+                    <TextEquiv>
+                        <Unicode>fordide</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c37ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1855,5483 1906,5483 1906,5561 1855,5561"/>
+                    <TextEquiv>
+                        <Unicode>,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c37ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2030,5372 2337,5372 2337,5600 2030,5600"/>
+                    <TextEquiv>
+                        <Unicode>qui</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c37ac29" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2428,5344 2840,5344 2840,5555 2428,5555"/>
+                    <TextEquiv>
+                        <Unicode>font</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c37ac39" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="2926,5363 3485,5363 3485,5610 2926,5610"/>
+                    <TextEquiv>
+                        <Unicode>-fetils,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c37ac57" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="3564,5412 3736,5412 3736,5577 3564,5577"/>
+                    <TextEquiv>
+                        <Unicode>&amp;</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ſordide, qui ſont ſeuls, &amp;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="1095,5566 3741,5568 3741,5921 1095,5919"/>
+                <Baseline points="1097,5761 1764,5773 2094,5790 2652,5806 3738,5845"/>
+                <Word id="w_w2aab1b1b2b3c39ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1097,5566 1764,5566 1764,5773 1097,5773"/>
+                    <TextEquiv>
+                        <Unicode>denuez</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c39ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1837,5595 2094,5595 2094,5790 1837,5790"/>
+                    <TextEquiv>
+                        <Unicode>de.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c39ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="2205,5610 2652,5610 2652,5816 2205,5816"/>
+                    <TextEquiv>
+                        <Unicode>leurs</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3c39ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="2776,5626 3738,5626 3738,5904 2776,5904"/>
+                    <TextEquiv>
+                        <Unicode>Chapitres»</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dénuez de leurs Chapitres.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>quatre-vingt quinze années,
+ou dans les premiers ma¬
+nuſcrits qui ont eſté faits
+de cet Hiſtorien; s’il eſt vray
+d’ailleurs que les quatre¬
+vingt dix-neuf ans que cet
+Auteur ſe donne dans cet¬
+te Preface, ſe liſent égale¬
+ment dans quatre manuſ¬
+crits de la Bibliotheque Pala¬
+tine; c’eſt là que l’on a trou¬
+vé les cinq derniers Chapi¬
+tres des Caracteres de Theo¬
+phraſte qui manquoient aux
+anciennes impreſſions, &amp;
+que l’on a vû deux titres,
+l’un du goût qu’on a pour
+les vicieux, l’autre du gain
+ſordide, qui ſont ſeuls, &amp;
+dénuez de leurs Chapitres.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
