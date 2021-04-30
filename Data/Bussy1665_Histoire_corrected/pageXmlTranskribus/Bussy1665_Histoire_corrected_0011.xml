@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-07-24T18:44:13.396+02:00</Created>
+        <LastChange>2020-11-01T09:02:43.853+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="146124" pageId="5420310" pageNr="11" tsid="47608428" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=LIHAGPTYBTGXCODHUDRUYGKP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BDDDJICYBTXDCUYOWIRTEZHO" imageId="2073185"/>
+    </Metadata>
+    <Page imageFilename="Bussy1665_Histoire_corrected_0011.png" imageWidth="4267" imageHeight="7542">
+        <PrintSpace>
+            <Coords points="20,36 4247,36 4247,7542 20,7542"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1604217795768" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1563986673445_282"/>
+                <RegionRefIndexed index="1" regionRef="region_1563986686312_293"/>
+                <RegionRefIndexed index="2" regionRef="r_5_1"/>
+                <RegionRefIndexed index="3" regionRef="r_6_1"/>
+                <RegionRefIndexed index="5" regionRef="region_1563986796466_397"/>
+                <RegionRefIndexed index="6" regionRef="r_12_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="TextRegion_1563986673445_282" custom="readingOrder {index:0;}">
+            <Coords points="655,488 2586,488 2586,707 655,707"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1563986686312_293" custom="readingOrder {index:1;}">
+            <Coords points="244,966 3128,966 3128,1450 244,1450"/>
+            <TextLine id="line_1563986693523_297" custom="readingOrder {index:0;}">
+                <Coords points="249,1027 3108,990 3113,1361 254,1398"/>
+                <Baseline points="254,1393 3113,1356"/>
+                <TextEquiv>
+                    <Unicode>AMOUREUSE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AMOUREUSE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:2;}">
+            <Coords points="1402,1845 1961,1845 1961,1984 1402,1984"/>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1403,1846 1960,1846 1960,1983 1403,1983"/>
+                <Baseline points="1403,1979 1960,1982"/>
+                <Word id="w_w2aab1b9b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1403,1846 1960,1846 1960,1983 1403,1983"/>
+                    <TextEquiv>
+                        <Unicode>DES</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="29.0" italic="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>DES</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="29.0" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DES</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:3;}">
+            <Coords points="543,2320 2650,2320 2650,2586 543,2586"/>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="544,2321 2724,2321 2724,2585 544,2585"/>
+                <Baseline points="544,2585 2723,2538"/>
+                <TextEquiv>
+                    <Unicode>GAULES</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="49.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>GAULES</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_11" custom="readingOrder {index:4;}">
+            <Coords points="1079,2659 2422,2659 2422,4446 1079,4446"/>
+        </GraphicRegion>
+        <TextRegion id="region_1563986796466_397" custom="readingOrder {index:5;}">
+            <Coords points="1617,5876 1619,6020 1764,6020 1762,5876"/>
+            <TextLine id="line_1563986796517_400" custom="readingOrder {index:0;}">
+                <Coords points="1616,5878 1760,5876 1764,6018 1620,6020"/>
+                <Baseline points="1620,6015 1764,6013"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_12_1" custom="readingOrder {index:6;}">
+            <Coords points="1035,6233 2333,6233 2333,6413 1035,6413"/>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1036,6234 2403,6232 2403,6410 1036,6412"/>
+                <Baseline points="1036,6412 2401,6408"/>
+                <Word id="w_w2aab1c23b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1036,6235 2332,6235 2332,6412 1036,6412"/>
+                    <TextEquiv>
+                        <Unicode>LIEGE</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="38.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>LIEGE</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="38.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LIEGE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_20" custom="readingOrder {index:7;}">
+            <Coords points="4088,1932 4225,1932 4225,4014 4088,4014"/>
+        </GraphicRegion>
+        <GraphicRegion id="r_21" custom="readingOrder {index:8;}">
+            <Coords points="3847,4016 4220,4016 4220,7487 3847,7487"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:9;}">
+            <Coords points="878,54 1286,54 1286,76 878,76"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:10;}">
+            <Coords points="2990,54 4090,54 4090,74 2990,74"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:11;}">
+            <Coords points="3536,7466 4114,7466 4114,7487 3536,7487"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:12;}">
+            <Coords points="2672,7482 2996,7482 2996,7491 2672,7491"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:13;}">
+            <Coords points="500,7539 730,7539 730,7542 500,7542"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:14;}">
+            <Coords points="1066,7537 1362,7537 1362,7542 1066,7542"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:15;}">
+            <Coords points="38,834 64,834 64,1368 38,1368"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:16;}">
+            <Coords points="54,6338 78,6338 78,6618 54,6618"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:17;}">
+            <Coords points="68,1920 76,1920 76,2210 68,2210"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:18;}">
+            <Coords points="68,648 101,648 101,1572 68,1572"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:19;}">
+            <Coords points="4141,3250 4195,3250 4195,4046 4141,4046"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:20;}">
+            <Coords points="4163,1932 4188,1932 4188,2994 4163,2994"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:21;}">
+            <Coords points="4200,1532 4227,1532 4227,2254 4200,2254"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:22;}">
+            <Coords points="4205,3520 4213,3520 4213,3728 4205,3728"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:23;}">
+            <Coords points="4208,3188 4218,3188 4218,3352 4208,3352"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:24;}">
+            <Coords points="4210,1076 4229,1076 4229,1336 4210,1336"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:25;}">
+            <Coords points="4215,1366 4225,1366 4225,1532 4215,1532"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
