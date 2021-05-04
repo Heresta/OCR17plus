@@ -18,6 +18,8 @@ Data for layout analysis and HTR.
 │     │  └── png
 │     └── …
 ├── build_train_alto_Seg17.sh
+├── files_informations.csv
+├── parts_dataset.csv
 └── README.md
 ```
 
@@ -27,6 +29,10 @@ The ``Data`` directory contains excerpts of 17<sup>th</sup> century books, _i.e.
 * The old prints have been selected in the [OCR17 repo](https://github.com/e-ditiones/OCR17), and are all described individually in their respective folder.
 
 ``build_train_alto_Seg17.sh`` is a script to create a `.png` + ALTO4 dataset from all the print.
+
+``files_informations.csv`` contains all names of dataset's files sorted depending on their main specificity.
+
+``parts_dataset.csv`` contains the percentage of each specificity in this dataset.
 
 ## Data production
 Data used come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the composition of which started with [Transkribus](https://readcoop.eu/transkribus). For each print, we propose
