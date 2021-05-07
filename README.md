@@ -45,7 +45,7 @@ Claire Jahan : claire.jahan[at]chartes.psl.eu
 Simon Gabay : Simon.Gabay[at]unige.ch
 
 ## Cite this dataset
-Claire Jahan and Simon Gabay, _17<sup>th</sup> century printed books (ALTO, PAGE-XML and png)_, 2021, Paris: ENS Paris,  https://github.com/Heresta/imprimeurs_pipeline.
+Claire Jahan and Simon Gabay, _17<sup>th</sup> century printed books (ALTO, PAGE-XML and png)_, 2021, Paris: ENS Paris,  https://github.com/Heresta/datasetsOCRSegmenter17.
 
 ## Licence
 Data is CC-BY, except images which come from Gallica (cf. [conditions d'utilisation](https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica)).
