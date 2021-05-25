@@ -42,6 +42,7 @@ Data used come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the c
 
 ## Contacts
 Claire Jahan : claire.jahan[at]chartes.psl.eu
+
 Simon Gabay : Simon.Gabay[at]unige.ch
 
 ## Cite this dataset

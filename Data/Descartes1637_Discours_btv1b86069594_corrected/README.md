@@ -7,6 +7,7 @@ _Discours de la méthode pour bien conduire sa raison et chercher la vérité da
 First page of the sample used for training:
 
 Image size: 4267 × 5688 pixels
+
 Color model: RGB
 
 ## Files

@@ -7,6 +7,7 @@ _La Princesse de Clèves - Tome 1_ of Lafayette (published in 1678) (https://gal
 First page of the sample used for training:
 
 Image size: 4267 × 7186 pixels
+
 Color model: RGB
 
 ## Files

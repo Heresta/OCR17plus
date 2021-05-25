@@ -7,6 +7,7 @@ _George Dandin, ou le Mary confondu par I.B.P. de Molière_ of Molière (publish
 First page of the sample used for training:
 
 Image size: 4042 × 7200 pixels
+
 Color model: RGB
 
 ## Files

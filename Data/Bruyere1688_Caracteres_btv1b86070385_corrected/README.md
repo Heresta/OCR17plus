@@ -7,6 +7,7 @@ _Les caractères de Théophraste, traduits du grec, avec Les caractères ou les 
 First page of the sample used for training:
 
 Image size: 4267 × 7162 pixels
+
 Color model: RGB
 
 ## Files

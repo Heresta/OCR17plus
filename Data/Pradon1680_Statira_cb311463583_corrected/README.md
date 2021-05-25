@@ -7,6 +7,7 @@ _Statira, Tragédie. Par Mr Pradon_ of Pradon (published in 1680) (https://galli
 First page of the sample used for training:
 
 Image size: 4085 × 6956 pixels
+
 Color model: RGB
 
 ## Files

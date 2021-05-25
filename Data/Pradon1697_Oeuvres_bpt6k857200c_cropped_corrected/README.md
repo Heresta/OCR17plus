@@ -7,6 +7,7 @@ _OEuvre de Mr Pradon_ of Pradon (published in 1697) (https://gallica.bnf.fr/ark:
 First page of the sample used for training:
 
 Image size: 4080 × 7024 pixels
+
 Color model: RGB
 
 ## Files

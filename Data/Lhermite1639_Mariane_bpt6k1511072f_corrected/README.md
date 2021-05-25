@@ -7,6 +7,7 @@ _La Mariane. Tragédie_ of Lhermite (published in 1639) (https://gallica.bnf.fr/
 First page of the sample used for training:
 
 Image size: 3796 × 5785 pixels
+
 Color model: RGB
 
 ## Files

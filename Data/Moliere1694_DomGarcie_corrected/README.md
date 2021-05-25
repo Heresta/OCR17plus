@@ -7,6 +7,7 @@ _Dom Garcie de Navarre ou le Prince jaloux. Comedie J.B.P. de Molière_ of Moli�
 First page of the sample used for training:
 
 Image size: 1034 × 1736 pixels
+
 Color model: RGB
 
 ## Files

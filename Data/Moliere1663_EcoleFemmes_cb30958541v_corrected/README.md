@@ -7,6 +7,7 @@ _L'Escole des Femmes. Comédie par I. B. Molière_ of Molière (published in 166
 First page of the sample used for training:
 
 Image size: 4058 × 6923 pixels
+
 Color model: RGB
 
 ## Files

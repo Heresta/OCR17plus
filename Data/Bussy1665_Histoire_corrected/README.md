@@ -7,6 +7,7 @@ _Histoire amoureuse des Gaules_ de Bussy-Rabutin (book published in 1665) (https
 First page of the sample used for training:
 
 Image size: 4267 × 7542 pixels
+
 Color model: RGB
 
 ## Files

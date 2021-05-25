@@ -7,6 +7,7 @@ _Méduse,  tragédie  en  musique  représentée  par  l’Académie  royale  de
 First page of the sample used for training:
 
 Image size: 3854 × 5485 pixels
+
 Color model: RGB
 
 ## Files

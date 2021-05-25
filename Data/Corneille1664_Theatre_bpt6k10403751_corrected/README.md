@@ -7,6 +7,7 @@ _Le théâtre de P. Corneille, revu par l'auteur. Partie 1_ de Pierre Corneille 
 First page of the sample used for training:
 
 Image size: 4267 × 6527 pixels
+
 Color model: RGB
 
 ## Files

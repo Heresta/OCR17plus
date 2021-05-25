@@ -7,6 +7,7 @@ _Lettres du sieur de Balzac_ of Jean-Louis de Balzac (book published in 1624) (h
 First page of the sample used for training:
 
 Image size: 4267 × 6862 pixels
+
 Color model: RGB
 
 ## Files
