@@ -1,7 +1,7 @@
 # About _Statira, Tragédie. Par Mr Pradon_ 
 
 ## Original
-_Statira, Tragédie. Par Mr Pradon_ of Molière (published in 1680) (https://gallica.bnf.fr/ark:/12148/bpt6k8416272)
+_Statira, Tragédie. Par Mr Pradon_ of Pradon (published in 1680) (https://gallica.bnf.fr/ark:/12148/bpt6k8416272)
 
 ## Images
 First page of the sample used for training:
