@@ -1,7 +1,7 @@
 # About _La Princesse de Clèves - Tome 1_ 
 
 ## Original
-_La Princesse de Clèves - Tome 1_ de Lafayette (ouvrage publié en 1678) (https://gallica.bnf.fr/ark:/12148/btv1b8610820b)
+_La Princesse de Clèves - Tome 1_ of Lafayette (published in 1678) (https://gallica.bnf.fr/ark:/12148/btv1b8610820b)
 
 ## Images
 First page of the sample used for training:
