@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-02-01T12:03:54.876+01:00</Created>
+        <LastChange>2019-09-28T21:15:06.394+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="188602" pageId="7480179" pageNr="13" tsid="16123771" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=BRLRWHNXLSHRWHCMSINYOMKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GDOWPJDQSSHHRDOIXCSZAHOW" imageId="2612970"/>
+    </Metadata>
+  <Page imageFilename="Moliere1663_EcoleFemmes_cb30958541v_corrected_0013.png" imageWidth="4058" imageHeight="6973">
+    <PrintSpace>
+            <Coords points="84,328 3479,328 3479,6457 84,6457"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604226465378" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1549019506325_1459"/>
+                <RegionRefIndexed index="2" regionRef="r_2_1"/>
+                <RegionRefIndexed index="3" regionRef="r_2_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3_1"/>
+                <RegionRefIndexed index="5" regionRef="r_3_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="" id="region_1549019506325_1459" custom="readingOrder {index:1;}">
+      <Coords points="1670,1414 1671,1609 1881,1609 1880,1414"/>
+      <TextLine id="line_1549019506403_1462" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1670,1415 1880,1415 1881,1609 1671,1609"/>
+        <Baseline points="1671,1604 1881,1604"/>
+        <Word id="word_1549019535861_1474">
+          <Coords points="1670,1415 1880,1415 1881,1609 1671,1609"/>
+          <TextEquiv>
+            <Unicode>A</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:2;}">
+      <Coords points="373,1839 3123,1839 3123,2274 373,2274"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="374,1840 3122,1840 3122,2273 374,2273"/>
+        <Baseline points="374,2246 3122,2265"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="374,1840 3122,1840 3122,2273 374,2273"/>
+          <TextEquiv>
+            <Unicode>MADAME</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="25.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:3;}">
+      <Coords points="1108,2586 2576,2586 2576,2849 1108,2849"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1109,2587 2575,2587 2575,2848 1109,2848"/>
+        <Baseline points="1109,2789 1287,2789 1551,2796 2319,2797 2573,2828"/>
+        <Word id="w_w2aab1b3b2b3b1ab1">
+          <Coords points="1109,2587 2575,2587 2575,2848 1109,2848"/>
+          <TextEquiv>
+            <Unicode>ADAME,</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:4;}">
+      <Coords points="132,3782 3449,3782 3449,6134 132,6134"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="441,3783 3380,3786 3380,4128 441,4125"/>
+        <Baseline points="442,3988 623,3993 1011,4004 1243,4008 1671,4012 2629,4028 2959,4022 3373,4020"/>
+        <Word id="w_w2aab1b5b2b1b1ab1">
+          <Coords points="441,3783 3380,3786 3380,4128 441,4125"/>
+          <TextEquiv>
+            <Unicode>Ie ſuis le plus embaraſſé homme</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="167,4073 3392,4073 3392,4417 167,4417"/>
+        <Baseline points="169,4267 383,4274 699,4282 1109,4334 1487,4301 1964,4308 2335,4308 2771,4315 3391,4318"/>
+        <Word id="w_w2aab1b5b2b1b3ab1">
+          <Coords points="167,4073 3392,4073 3392,4417 167,4417"/>
+          <TextEquiv>
+            <Unicode>du monde, lors qu'il me faut dédier</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="162,4387 3386,4387 3386,4692 162,4692"/>
+        <Baseline points="163,4559 266,4559 409,4558 642,4570 1129,4626 1485,4625 1721,4592 2049,4586 2725,4598 2994,4606 3385,4618"/>
+        <Word id="w_w2aab1b5b2b1b5ab1">
+          <Coords points="162,4387 3386,4387 3386,4692 162,4692"/>
+          <TextEquiv>
+            <Unicode>vn Liure, &amp; ie me trouue ſi peu</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:3;}">
+        <Coords points="133,4645 3377,4645 3377,4984 133,4984"/>
+        <Baseline points="133,4936 477,4843 724,4860 1176,4863 1374,4874 2044,4886 2353,4876 2976,4898 3375,4941"/>
+        <Word id="w_w2aab1b5b2b1b7ab1">
+          <Coords points="133,4645 3377,4645 3377,4984 133,4984"/>
+          <TextEquiv>
+            <Unicode>fait au ſtyle d'Epiſtre Dedicatoire,</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:4;}">
+        <Coords points="160,4947 3380,4947 3380,5273 160,5273"/>
+        <Baseline points="160,5215 460,5127 688,5134 947,5151 1379,5234 1739,5169 2040,5178 2579,5188 2847,5185 3160,5194 3379,5146"/>
+        <Word id="w_w2aab1b5b2b1b9ab1">
+          <Coords points="160,4947 3380,4947 3380,5273 160,5273"/>
+          <TextEquiv>
+            <Unicode>que ie ne ſçay par où ſortir de celle-</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:5;}">
+        <Coords points="172,5243 3375,5243 3375,5568 172,5568"/>
+        <Baseline points="173,5395 410,5414 770,5432 1290,5449 2134,5468 2575,5472 3373,5486"/>
+        <Word id="w_w2aab1b5b2b1c11ab1">
+          <Coords points="172,5243 3375,5243 3375,5568 172,5568"/>
+          <TextEquiv>
+            <Unicode>cy. Vn autre Autheur, qui ſeroit en</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="12.0" italic="true"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:6;}">
+        <Coords points="175,5504 3391,5504 3391,5814 175,5814"/>
+        <Baseline points="176,5688 430,5698 578,5781 1032,5772 2058,5751 2894,5765 3390,5774"/>
+        <Word id="w_w2aab1b5b2b1c13ab1">
+          <Coords points="175,5504 3391,5504 3391,5814 175,5814"/>
+          <TextEquiv>
+            <Unicode>ma place, trouueroit d’abord cent</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:7;}">
+        <Coords points="177,5766 3393,5766 3393,6133 177,6133"/>
+        <Baseline points="178,5971 629,6002 1272,6025 1531,6025 1944,6044 2161,6045 2497,6059 2688,6050 2832,6056 3004,6055 3200,6059 3390,6110"/>
+        <Word id="w_w2aab1b5b2b1c15ab1">
+          <Coords points="177,5766 3393,5766 3393,6133 177,6133"/>
+          <TextEquiv>
+            <Unicode>belles choſes à dire de VOSTRE</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:5;}">
+      <Coords points="2254,6125 2641,6126 2641,6432 2254,6431"/>
+      <TextLine id="tl_11" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="2255,6126 2640,6126 2640,6430 2255,6430"/>
+        <Baseline points="2256,6369 2635,6389"/>
+        <Word id="w_w2aab1b5b2b3b1ab1">
+          <Coords points="2255,6126 2640,6126 2640,6430 2255,6430"/>
+          <TextEquiv>
+            <Unicode>ã iij</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="381,328 3336,328 3341,1207 386,1207"/>
+        </GraphicRegion>
+    <GraphicRegion id="r_4" custom="readingOrder {index:6;}">
+            <Coords points="167,2574 1046,2574 1046,3492 167,3492"/>
+        </GraphicRegion>
+  </Page>
+</PcGts>
