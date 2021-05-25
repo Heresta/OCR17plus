@@ -12,7 +12,7 @@ Color model: RGB
 ## Files
 ``png`` contains all the images in png format on which are based all the files in the others directories. They are from Gallica (cf. link above).
 
-``pageXmlTranskribus`` contains all the PAGE-XML files which are the output files of Transkribus. Those files come from E-ditiones' repository [OCR17plus](https://github.com/e-ditiones/OCR17plus). They were pre-prepared by Simon Gabay.
+``pageXmlTranskribus`` contains all the PAGE-XML files which are the output files of Transkribus. They were pre-prepared by Simon Gabay.
 
 ``pageXmlTranskribusCorrected`` contains all the PAGE-XML files which are the output files of Transkribus and which was transformed to fit and be used in [eScriptorium](http://traces6.paris.inria.fr/) (link to the python and xsl scripts used [here](https://github.com/Heresta/BAO_Stage_DH_ENS_2021/tree/main/CorrectionPageXMLeScriptorium)).
 
