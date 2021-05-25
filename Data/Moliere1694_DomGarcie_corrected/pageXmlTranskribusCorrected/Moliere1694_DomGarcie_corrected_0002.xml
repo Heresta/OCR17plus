@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-07-24T19:00:45.502+02:00</Created>
+        <LastChange>2019-07-24T19:02:27.232+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="146122" pageId="5420145" pageNr="2" tsid="13104235" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=GZSOKDQBLVTEZMGHUWJLKKHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JTAOGLUYFCHKEYGYTKZZVQDO" imageId="2828192"/>
+    </Metadata>
+  <Page imageFilename="Moliere1694_DomGarcie_corrected_0002.png" imageWidth="1034" imageHeight="1736">
+    <PrintSpace>
+            <Coords points="4,0 1034,0 1034,1620 4,1620"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604177610387" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1563987670509_552"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_2_4"/>
+                <RegionRefIndexed index="5" regionRef="r_2_5"/>
+                <RegionRefIndexed index="6" regionRef="r_3_1"/>
+                <RegionRefIndexed index="7" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+      <Coords points="81,25 915,25 915,135 81,135"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="82,26 914,26 914,134 82,134"/>
+        <Baseline points="82,134 398,130 914,134"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="82,26 914,26 914,134 82,134"/>
+          <TextEquiv>
+            <Unicode>DOM GARCIE</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="21.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="TextRegion_1563987670509_552" custom="readingOrder {index:2;}">
+      <Coords points="114,177 875,177 875,255 114,255"/>
+      <TextLine id="line_1563987664437_544" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="117,178 874,178 874,254 117,254"/>
+        <Baseline points="117,245 262,250 874,254"/>
+        <Word id="w_w2aab1b3b2b3b1ab5">
+          <Coords points="117,178 874,178 874,254 117,254"/>
+          <TextEquiv>
+            <Unicode>DE NAVARRE,</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+      <Coords points="353,305 608,305 608,346 353,346"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="354,306 607,306 607,345 354,345"/>
+        <Baseline points="354,345 391,345 461,345 545,345 607,344"/>
+        <Word id="w_w2aab1b3b2b5b1ab1">
+          <Coords points="354,306 607,306 607,345 354,345"/>
+          <TextEquiv>
+            <Unicode>OU LE</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:4;}">
+      <Coords points="116,410 837,410 837,579 116,579"/>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="117,411 836,411 836,478 117,478"/>
+        <Baseline points="117,461 429,458 836,472"/>
+        <Word id="w_w2aab1b3b2b7b1ab1">
+          <Coords points="117,411 836,411 836,478 117,478"/>
+          <TextEquiv>
+            <Unicode>PRINCE JALOUX,</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5" bold="true"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="212,526 731,526 731,578 212,578"/>
+        <Baseline points="212,577 731,577"/>
+        <Word id="w_w2aab1b3b2b7b3ab1">
+          <Coords points="212,526 731,526 731,578 212,578"/>
+          <TextEquiv>
+            <Unicode>COMEDIE.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_5" custom="readingOrder {index:5;}">
+      <Coords points="137,618 833,618 833,667 137,667"/>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="138,619 832,619 832,666 138,666"/>
+        <Baseline points="138,658 246,656 302,654 369,654 436,655 536,656 832,662"/>
+        <Word id="w_w2aab1b3b2b9b1ab1">
+          <Coords points="138,619 832,619 832,666 138,666"/>
+          <TextEquiv>
+            <Unicode>PAR J. B. P. DE MOLIERE.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:6;}">
+      <Coords points="74,1310 895,1310 895,1528 74,1528"/>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="174,1311 793,1311 793,1355 174,1355"/>
+        <Baseline points="174,1348 208,1348 790,1349"/>
+        <Word id="w_w2aab1b5b2b1b1ab1">
+          <Coords points="174,1311 793,1311 793,1355 174,1355"/>
+          <TextEquiv>
+            <Unicode>A BRUSSELLES,</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="75,1367 886,1368 886,1417 75,1416"/>
+        <Baseline points="75,1414 117,1414 422,1413 514,1412 885,1411"/>
+        <Word id="w_w2aab1b5b2b1b3ab1">
+          <Coords points="75,1367 886,1368 886,1417 75,1416"/>
+          <TextEquiv>
+            <Unicode>Chez George de Backer, Im¬</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="131,1426 830,1426 830,1476 131,1476"/>
+        <Baseline points="131,1476 287,1463 342,1464 560,1463 742,1461 830,1460"/>
+        <Word id="w_w2aab1b5b2b1b5ab1">
+          <Coords points="131,1426 830,1426 830,1476 131,1476"/>
+          <TextEquiv>
+            <Unicode>primeur &amp; Marchand Libraire aux</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:3;}">
+        <Coords points="156,1477 805,1477 805,1527 156,1527"/>
+        <Baseline points="156,1512 240,1513 386,1520 413,1514 456,1513 693,1512 805,1512"/>
+        <Word id="w_w2aab1b5b2b1b7ab1">
+          <Coords points="156,1477 805,1477 805,1527 156,1527"/>
+          <TextEquiv>
+            <Unicode>trois Mores, à la Berg-ſtraet. 1694.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:7;}">
+      <Coords points="251,1560 713,1560 713,1611 251,1611"/>
+      <TextLine id="tl_11" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="252,1561 712,1561 712,1610 252,1610"/>
+        <Baseline points="252,1598 351,1599 543,1595 612,1593 668,1594 712,1596"/>
+        <Word id="w_w2aab1b7b2b1b1ab1">
+          <Coords points="252,1561 712,1561 712,1610 252,1610"/>
+          <TextEquiv>
+            <Unicode>Avec Privilege du Roy.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="142,758 1034,758 1034,1544 142,1544"/>
+        </GraphicRegion>
+    <SeparatorRegion id="r_5" custom="readingOrder {index:8;}">
+            <Coords points="134,1544 824,1544 824,1552 134,1552"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_6" custom="readingOrder {index:9;}">
+            <Coords points="1016,0 1034,0 1034,920 1016,920"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_7" custom="readingOrder {index:10;}">
+            <Coords points="1028,920 1034,920 1034,1184 1028,1184"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>
