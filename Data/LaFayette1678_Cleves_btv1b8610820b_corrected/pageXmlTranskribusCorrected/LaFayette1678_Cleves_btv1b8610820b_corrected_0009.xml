@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-07-24T18:53:03.939+02:00</Created>
+        <LastChange>2019-07-24T18:55:28.095+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="158680" pageId="5856517" pageNr="9" tsid="13104154" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=OSEIEJIEESHEWDMOASZDNTMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IBLYQPGIEGUYZQBXGLGEQMPL" imageId="2073695"/>
+    </Metadata>
+  <Page imageFilename="LaFayette1678_Cleves_btv1b8610820b_corrected_0009.png" imageWidth="4267" imageHeight="7186">
+    <PrintSpace>
+            <Coords points="375,382 3579,382 3575,6345 371,6345"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604221255705" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1563987203596_452"/>
+                <RegionRefIndexed index="1" regionRef="r_1_1"/>
+                <RegionRefIndexed index="2" regionRef="r_1_2"/>
+                <RegionRefIndexed index="3" regionRef="r_1_3"/>
+                <RegionRefIndexed index="4" regionRef="r_1_4"/>
+                <RegionRefIndexed index="5" regionRef="r_3_1"/>
+                <RegionRefIndexed index="6" regionRef="r_3_2"/>
+                <RegionRefIndexed index="7" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="" id="region_1563987203596_452" custom="readingOrder {index:0;}">
+      <Coords points="1773,393 2313,393 2313,674 1773,674"/>
+      <TextLine id="line_1563987212594_456" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1796,398 2292,398 2292,632 1796,632"/>
+        <Baseline points="1796,627 2292,627"/>
+        <Word id="">
+          <Coords points="1796,398 2292,398 2292,632 1796,632"/>
+          <TextEquiv>
+            <Unicode>LA</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:1;}">
+      <Coords points="570,849 3552,849 3552,1282 570,1282"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="571,850 3551,850 3551,1281 571,1281"/>
+        <Baseline points="571,1220 3551,1281"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="571,850 3551,850 3551,1281 571,1281"/>
+          <TextEquiv>
+            <Unicode>PRINCESSE</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="23.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:2;}">
+      <Coords points="1844,1460 2240,1460 2240,1642 1844,1642"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1845,1461 2239,1461 2239,1641 1845,1641"/>
+        <Baseline points="1845,1639 2239,1637"/>
+        <Word id="w_w2aab1b1b2b3b1ab1">
+          <Coords points="1845,1461 2239,1461 2239,1641 1845,1641"/>
+          <TextEquiv>
+            <Unicode>DE</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:3;}">
+      <Coords points="747,1870 3249,1870 3249,2347 747,2347"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="748,1871 3328,1868 3328,2343 748,2346"/>
+        <Baseline points="748,2316 3248,2338 3321,2248"/>
+        <Word id="">
+          <Coords points="748,1871 3328,1868 3328,2343 748,2346"/>
+          <TextEquiv>
+            <Unicode>CLEVES.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="26.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_4" custom="readingOrder {index:4;}">
+      <Coords points="1257,2494 2753,2494 2753,2731 1257,2731"/>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1258,2495 2752,2495 2752,2730 1258,2730"/>
+        <Baseline points="1258,2705 2244,2705 2750,2730"/>
+        <Word id="w_w2aab1b1b2b7b1ab1">
+          <Coords points="1258,2495 2752,2495 2752,2730 1258,2730"/>
+          <TextEquiv>
+            <Unicode>TOME I.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="11.0" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:5;}">
+      <Coords points="1439,4584 2607,4584 2607,4758 1439,4758"/>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1440,4585 2606,4585 2606,4757 1440,4757"/>
+        <Baseline points="1440,4738 1586,4738 2605,4757"/>
+        <Word id="w_w2aab1b5b2b1b1ab1">
+          <Coords points="1440,4585 2606,4585 2606,4757 1440,4757"/>
+          <TextEquiv>
+            <Unicode>A PARIS,</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:6;}">
+      <Coords points="818,4889 3528,4889 3528,5520 818,5520"/>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="553,4864 3527,4865 3527,5123 553,5122"/>
+        <Baseline points="560,5025 1522,5046 1971,5046 2090,5052 2242,5061 2410,5051 2670,5082 2822,5055 3526,5123"/>
+        <Word id="w_w2aab1b5b4b1b1b1b1">
+          <Coords points="553,4864 3527,4865 3527,5123 553,5122"/>
+          <TextEquiv>
+            <Unicode>Chez CLAVDE BARBIN, au Palais,</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="819,5078 3285,5078 3285,5272 819,5272"/>
+        <Baseline points="819,5231 1032,5237 1192,5238 1737,5248 2352,5258 2564,5261 2736,5262 3284,5272"/>
+        <Word id="w_w2aab1b5b4b1b3ab1">
+          <Coords points="819,5078 3285,5078 3285,5272 819,5272"/>
+          <TextEquiv>
+            <Unicode>ſur le ſecond Perron de la Sainte</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="1644,5299 2427,5299 2427,5519 1644,5519"/>
+        <Baseline points="1645,5452 2425,5443"/>
+        <Word id="w_w2aab1b5b4b1b5ab1">
+          <Coords points="1644,5299 2427,5299 2427,5519 1644,5519"/>
+          <TextEquiv>
+            <Unicode>Chapelle.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:7;}">
+      <Coords points="539,5760 3495,5760 3495,6295 539,6295"/>
+      <TextLine id="tl_9" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1068,5761 2986,5761 2986,5941 1068,5941"/>
+        <Baseline points="1068,5903 1305,5911 1586,5914 2984,5941"/>
+        <Word id="w_w2aab1b7b2b1b1ab1">
+          <Coords points="1068,5761 2986,5761 2986,5941 1068,5941"/>
+          <TextEquiv>
+            <Unicode>M. DC. LXXVIII.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_10" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="540,6055 3494,6055 3494,6294 540,6294"/>
+        <Baseline points="541,6205 1142,6218 2298,6242 2594,6161 3494,6258"/>
+        <Word id="w_w2aab1b7b2b1b3ab1">
+          <Coords points="540,6055 3494,6055 3494,6294 540,6294"/>
+          <TextEquiv>
+            <Unicode>AVEC PRIVILEGE DV ROY.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <SeparatorRegion id="r_5" custom="readingOrder {index:8;}">
+            <Coords points="821,5596 3285,5596 3285,5670 821,5670"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>
