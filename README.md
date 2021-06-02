@@ -17,6 +17,9 @@ Data for layout analysis and HTR.
 │     │  ├── pagexmlTranskribusCorrected
 │     │  └── png
 │     └── …
+├── Models
+|     └── Segment
+|           └── segment17.mlmodel
 ├── build_train_alto_Seg17.sh
 ├── files_informations.csv
 ├── parts_dataset.csv
