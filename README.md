@@ -28,7 +28,7 @@ Data for layout analysis and HTR.
 
 The ``Data`` directory contains excerpts of 17<sup>th</sup> century books, _i.e._ scans of selected pages and their encoding in PageXML and ALTO-4 files.
 
-* The files propose not only the transcription of the text but also a description of the layout using the [SegMonto](https://github.com/SegmOnto) vocabulary.
+* The files propose not only the transcription of the text but also a description of the layout using the [SegmOnto](https://github.com/SegmOnto) vocabulary.
 * The old prints have been selected in the [OCR17 repo](https://github.com/e-ditiones/OCR17), and are all described individually in their respective folder.
 
 ``build_train_alto_Seg17.sh`` is a script to create a `.png` + ALTO4 dataset from all the print.
