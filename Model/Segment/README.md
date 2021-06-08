@@ -12,5 +12,5 @@ Kraken was used for this training.
 ## Results
 This model has 99% accuracy, according to training Kraken.
 
-It was tested on a virgin document, and it gave good results, except concerning Rubric lines or DropCapitalLine, which are rare in training dataset.
+It was tested on an untouched document, and it gave good results, except concerning Rubric lines or DropCapitalLine, which are rare in training dataset.
 
