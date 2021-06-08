@@ -7,7 +7,7 @@ This model was produced thanks to this dataset. All of it was used in a training
 
 The vocabulary of the segmentation is based on [SegmOnto vocabulary](https://github.com/SegmOnto/examples).
 
-Kraken was used thanks to line command `ketos train -t train.txt -e val.txt -u NFKD -f alto` for training, then `ketos test -m model -f alto -e test.txt` to test it.
+Kraken was used for this training.
 
 ## Results
 This model has 99% accuracy, according to training Kraken.
