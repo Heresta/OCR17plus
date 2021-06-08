@@ -18,8 +18,10 @@ Data for layout analysis and HTR.
 │     │  └── png
 │     └── …
 ├── Models
+|     ├── HTR
+|     |	 └── htr_model.mlmodel
 |     └── Segment
-|           └── segment17.mlmodel
+|        └── segment17.mlmodel
 ├── build_train_alto_Seg17.sh
 ├── files_informations.csv
 ├── parts_dataset.csv
@@ -27,6 +29,8 @@ Data for layout analysis and HTR.
 ```
 
 The ``Data`` directory contains excerpts of 17<sup>th</sup> century books, _i.e._ scans of selected pages and their encoding in PageXML and ALTO-4 files.
+
+The ``Models`` directory contains two trained models, one for HTR (more information [here]()) and the second for segmentation (more information [here](https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/Model/Segment/README.md)).
 
 * The files propose not only the transcription of the text but also a description of the layout using the [SegmOnto](https://github.com/SegmOnto) vocabulary.
 * The old prints have been selected in the [OCR17 repo](https://github.com/e-ditiones/OCR17), and are all described individually in their respective folder.
