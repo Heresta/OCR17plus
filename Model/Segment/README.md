@@ -7,7 +7,7 @@ This model was produced thanks to this dataset. All of it was used in a training
 
 The vocabulary of the segmentation is based on [SegmOnto vocabulary](https://github.com/SegmOnto/examples).
 
-Kraken was used for this training.
+[Kraken](https://kraken.re/) was used for this training.
 
 ## Results
 This model has 99% accuracy, according to training Kraken.
