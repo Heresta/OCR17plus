@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-07-29T12:12:43.178+02:00</Created>
+        <LastChange>2019-07-29T12:17:45.913+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="189251" pageId="7488798" pageNr="9" tsid="13174871" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=KLJACEYAQRLLUSZTLDAJMYRL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPONDVXMRSYCEFJSRKFEBTEK" imageId="2284422"/>
+    </Metadata>
+  <Page imageFilename="Racine1676_Oeuvres1_cb31168676r_corrected_0009.png" imageWidth="4267" imageHeight="7821">
+    <PrintSpace>
+            <Coords points="304,88 4120,88 4120,6952 304,6952"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604235668547" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1564395190885_489"/>
+                <RegionRefIndexed index="1" regionRef="region_1564395193409_492"/>
+                <RegionRefIndexed index="2" regionRef="region_1564395204292_506"/>
+                <RegionRefIndexed index="3" regionRef="region_1564395207810_509"/>
+                <RegionRefIndexed index="4" regionRef="region_1564395217352_515"/>
+                <RegionRefIndexed index="5" regionRef="region_1564395390721_582"/>
+                <RegionRefIndexed index="6" regionRef="r_2_1"/>
+                <RegionRefIndexed index="7" regionRef="r_2_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="" id="region_1564395190885_489" custom="readingOrder {index:0;}">
+      <Coords points="757,579 3225,579 3225,1083 757,1083"/>
+      <TextLine id="line_1564395228007_520" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="786,654 3177,672 3177,984 786,966"/>
+        <Baseline points="786,961 3177,979"/>
+        <Word id="">
+          <Coords points="786,654 3177,672 3177,984 786,966"/>
+          <TextEquiv>
+            <Unicode>ŒUVRES</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="" id="region_1564395193409_492" custom="readingOrder {index:1;}">
+      <Coords points="1659,1214 2305,1214 2305,1505 1659,1505"/>
+      <TextLine id="line_1564395246641_527" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1717,1238 2240,1248 2239,1455 1716,1445"/>
+        <Baseline points="1716,1440 2239,1450"/>
+        <Word id="">
+          <Coords points="1717,1238 2240,1248 2239,1455 1716,1445"/>
+          <TextEquiv>
+            <Unicode>DE</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="" id="region_1564395204292_506" custom="readingOrder {index:2;}">
+      <Coords points="431,1612 3522,1612 3522,2217 431,2217"/>
+      <TextLine id="line_1564395264255_534" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="461,1719 3492,1732 3479,2107 448,2094"/>
+        <Baseline points="448,2089 3479,2102"/>
+        <Word id="">
+          <Coords points="461,1719 3492,1732 3479,2107 448,2094"/>
+          <TextEquiv>
+            <Unicode>RACINE.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="" id="region_1564395207810_509" custom="readingOrder {index:3;}">
+      <Coords points="739,2383 3177,2383 3177,2751 739,2751"/>
+      <TextLine id="line_1564395278510_541" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="747,2450 3132,2463 3132,2686 747,2673"/>
+        <Baseline points="747,2668 3132,2681"/>
+        <Word id="">
+          <Coords points="747,2450 3132,2463 3132,2686 747,2673"/>
+          <TextEquiv>
+            <Unicode>TOME PREMIER.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="" id="region_1564395217352_515" custom="readingOrder {index:4;}">
+      <Coords points="1060,4955 2935,4955 2935,5341 1060,5341"/>
+      <TextLine id="line_1564395299848_552" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1126,5063 2807,5067 2815,5305 1134,5301"/>
+        <Baseline points="1130,5240 2811,5244"/>
+        <Word id="">
+          <Coords points="1126,5063 2807,5067 2815,5305 1134,5301"/>
+          <TextEquiv>
+            <Unicode>A PARIS,</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="" id="region_1564395390721_582" custom="readingOrder {index:5;}">
+      <Coords points="326,5443 3647,5443 3647,5990 326,5990"/>
+      <TextLine id="line_1564395398845_586" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="345,5481 3629,5467 3634,5737 350,5751"/>
+        <Baseline points="335,5698 3619,5684"/>
+        <Word id="">
+          <Coords points="345,5481 3629,5467 3634,5737 350,5751"/>
+          <TextEquiv>
+            <Unicode>Chez JEAN RIBOU, au Palais, dans</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="line_1564395403493_591" primaryLanguage="" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="391,5727 3521,5722 3522,5975 392,5980"/>
+        <Baseline points="382,5916 3512,5911"/>
+        <Word id="">
+          <Coords points="391,5727 3521,5722 3522,5975 392,5980"/>
+          <TextEquiv>
+            <Unicode>la Salle Royalle, à l'Image S. Louis.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:6;}">
+      <Coords points="1017,6317 2915,6317 2915,6507 1017,6507"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1018,6318 2914,6318 2914,6506 1018,6506"/>
+        <Baseline points="1018,6494 1282,6506 1858,6486 2914,6486"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="1018,6318 2914,6318 2914,6506 1018,6506"/>
+          <TextEquiv>
+            <Unicode>M. DC. LXXVI.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:7;}">
+      <Coords points="945,6677 2971,6677 2971,6919 945,6919"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="946,6678 2970,6678 2970,6918 946,6918"/>
+        <Baseline points="946,6862 1402,6850 2250,6842 2522,6842 2970,6850"/>
+        <Word id="w_w2aab1b3b2b3b1ab1">
+          <Coords points="946,6678 2970,6678 2970,6918 946,6918"/>
+          <TextEquiv>
+            <Unicode>Avec privilege du Roy.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <SeparatorRegion id="r_5" custom="readingOrder {index:8;}">
+            <Coords points="1032,88 3904,88 3904,112 1032,112"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_6" custom="readingOrder {index:9;}">
+            <Coords points="600,6112 3328,6112 3328,6168 600,6168"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_7" custom="readingOrder {index:10;}">
+            <Coords points="4112,2528 4120,2528 4120,2632 4112,2632"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>

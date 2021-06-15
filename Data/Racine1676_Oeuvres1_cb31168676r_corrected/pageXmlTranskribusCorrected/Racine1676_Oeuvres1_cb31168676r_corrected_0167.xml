@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-01-04T16:55:49.253+01:00</Created>
+        <LastChange>2019-01-04T16:57:20.228+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="189251" pageId="7488959" pageNr="167" tsid="13175097" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=KXRPRGOSGZXOPEXDFIAPPDVJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FDRVAVHVTTPSCACCETQIRXFA" imageId="2284715"/>
+    </Metadata>
+  <Page imageFilename="Racine1676_Oeuvres1_cb31168676r_corrected_0167.png" imageWidth="4267" imageHeight="7877">
+    <PrintSpace>
+            <Coords points="40,96 4144,96 4144,6880 40,6880"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604235671585" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_1_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1_3"/>
+                <RegionRefIndexed index="4" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+      <Coords points="3253,837 3519,837 3519,998 3253,998"/>
+      <TextLine id="tl_1" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="3254,838 3518,838 3518,997 3254,997"/>
+        <Baseline points="3254,936 3319,936 3518,997"/>
+        <Word id="w_w2aab1b1b2b1b1ab1">
+          <Coords points="3254,838 3518,838 3518,997 3254,997"/>
+          <TextEquiv>
+            <Unicode>145</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+      <Coords points="195,897 3528,897 3528,1629 195,1629"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="196,898 3527,898 3527,1198 196,1198"/>
+        <Baseline points="196,1096 698,1068 1489,1105 1747,1156 1952,1118 2400,1138 2673,1151 3000,1170 3219,1180 3527,1198"/>
+        <Word id="w_w2aab1b1b2b3b1ab1">
+          <Coords points="196,898 3527,898 3527,1198 196,1198"/>
+          <TextEquiv>
+            <Unicode>ſiderer l'excellent uſage qu'ils ont fait de ces</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="6.5" italic="true"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="225,1102 3526,1102 3526,1414 225,1414"/>
+        <Baseline points="225,1246 1044,1280 1153,1317 1394,1316 1635,1311 2331,1331 3114,1375 3526,1394"/>
+        <Word id="w_w2aab1b1b2b3b3ab1">
+          <Coords points="225,1102 3526,1102 3526,1414 225,1414"/>
+          <TextEquiv>
+            <Unicode>changement, &amp; la maniere ingenieuſe dont</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="6.5" italic="true"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="217,1302 3519,1302 3519,1628 217,1628"/>
+        <Baseline points="217,1430 392,1443 668,1463 1022,1479 1994,1520 2202,1522 2713,1553 2872,1560 3233,1581 3519,1574"/>
+        <Word id="w_w2aab1b1b2b3b5ab1">
+          <Coords points="217,1302 3519,1302 3519,1628 217,1628"/>
+          <TextEquiv>
+            <Unicode>ils ont ſceû accommoder la Fable à leur ſu¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="6.5" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
+      <Coords points="49,1495 278,1495 278,1667 49,1667"/>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="50,1496 277,1496 277,1666 50,1666"/>
+        <Baseline points="50,1666 277,1634"/>
+        <Word id="w_w2aab1b1b2b5b1ab1">
+          <Coords points="50,1496 277,1496 277,1666 50,1666"/>
+          <TextEquiv>
+            <Unicode>jet.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Arial" fontSize="7.0" italic="true"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:4;}">
+      <Coords points="2744,6713 2867,6713 2867,6822 2744,6822"/>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="2745,6714 2866,6714 2866,6820 2745,6820"/>
+        <Baseline points="2748,6817 2866,6817"/>
+        <Word id="w_w2aab1b5b2b1b1b1b1">
+          <Coords points="2745,6714 2866,6714 2866,6820 2745,6820"/>
+          <TextEquiv>
+            <Unicode>N</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="r_2" custom="readingOrder {index:3;}">
+            <Coords points="80,2432 4144,2432 4144,5032 80,5032"/>
+        </GraphicRegion>
+    <SeparatorRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="40,96 4088,96 4088,128 40,128"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>
