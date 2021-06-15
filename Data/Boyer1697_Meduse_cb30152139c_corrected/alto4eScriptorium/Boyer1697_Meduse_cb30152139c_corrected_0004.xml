@@ -49,7 +49,7 @@
                    WIDTH="1408"
                    HEIGHT="1436"
                    ID="eSc_textblock_f55bd448"
-                   TAGREFS="BT70">
+                   TAGREFS="BT68">
           <Shape><Polygon POINTS="1619 3005 1619 4441 3027 4441 3027 3005"/></Shape>
           
         </TextBlock>
@@ -63,50 +63,7 @@
           <Shape><Polygon POINTS="2998 2906 2998 3783 3748 3783 3748 2906"/></Shape>
           
         </TextBlock>
-        
-        <TextBlock HPOS="1004"
-                   VPOS="735"
-                   WIDTH="2687"
-                   HEIGHT="637"
-                   ID="eSc_textblock_2b44b2a6"
-                   TAGREFS="BT1">
-          <Shape><Polygon POINTS="1004 735 1004 1372 3691 1372 3691 735"/></Shape>
           
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT36"
-                    BASELINE="1022 995 3615 981" 
-                    HPOS="1022"
-                    VPOS="726"
-                    WIDTH="2593"
-                    HEIGHT="269">
-            <Shape><Polygon POINTS="1022 726 3615 726 3615 995 1022 995"/></Shape>
-	    <String CONTENT="ACTEURS"
-                    HPOS="1022"
-                    VPOS="726"
-                    WIDTH="2593"
-                    HEIGHT="269"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT36"
-                    BASELINE="1152 1323 1585 1329 3465 1302 3496 1275" 
-                    HPOS="1152"
-                    VPOS="1113"
-                    WIDTH="2348"
-                    HEIGHT="217">
-            <Shape><Polygon POINTS="1152 1117 3500 1113 3500 1326 1152 1330"/></Shape>
-	    <String CONTENT="DU PROLOGUE."
-                    HPOS="1152"
-                    VPOS="1113"
-                    WIDTH="2348"
-                    HEIGHT="217"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
         <TextBlock HPOS="714"
                    VPOS="1428"
@@ -115,6 +72,38 @@
                    ID="eSc_textblock_4200bd54"
                    TAGREFS="BT2">
           <Shape><Polygon POINTS="714 1428 721 2624 2949 2602 2963 1428"/></Shape>
+          
+          <TextLine ID="tl_1"
+            TAGREFS="LT36"
+            BASELINE="1022 995 3615 981" 
+            HPOS="1022"
+            VPOS="726"
+            WIDTH="2593"
+            HEIGHT="269">
+            <Shape><Polygon POINTS="1022 726 3615 726 3615 995 1022 995"/></Shape>
+            <String CONTENT="ACTEURS"
+              HPOS="1022"
+              VPOS="726"
+              WIDTH="2593"
+              HEIGHT="269"></String>
+          </TextLine>
+          
+          
+          
+          <TextLine ID="tl_2"
+            TAGREFS="LT36"
+            BASELINE="1152 1323 1585 1329 3465 1302 3496 1275" 
+            HPOS="1152"
+            VPOS="1113"
+            WIDTH="2348"
+            HEIGHT="217">
+            <Shape><Polygon POINTS="1152 1117 3500 1113 3500 1326 1152 1330"/></Shape>
+            <String CONTENT="DU PROLOGUE."
+              HPOS="1152"
+              VPOS="1113"
+              WIDTH="2348"
+              HEIGHT="217"></String>
+          </TextLine>
           
           
           <TextLine ID="line_1548783439472_3714"
