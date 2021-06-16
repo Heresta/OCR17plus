@@ -319,6 +319,20 @@
                     WIDTH="2758"
                     HEIGHT="245"></String>
           </TextLine>
+                <TextLine ID="tl_19"
+                        TAGREFS="LT47"
+                        BASELINE="452 5524 1201 5546 1821 5636 2317 5560 3224 5577" 
+                        HPOS="451"
+                        VPOS="5335"
+                        WIDTH="2774"
+                        HEIGHT="326">
+                        <Shape><Polygon POINTS="451 5335 3225 5335 3225 5661 451 5661"/></Shape>
+                        <String CONTENT="bouche celuy qui marche"
+                                HPOS="451"
+                                VPOS="5335"
+                                WIDTH="2774"
+                                HEIGHT="326"></String>
+                </TextLine>
 
           
         </TextBlock>
@@ -405,27 +419,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_19"
-                    TAGREFS="LT47"
-                    BASELINE="452 5524 1201 5546 1821 5636 2317 5560 3224 5577" 
-                    HPOS="451"
-                    VPOS="5335"
-                    WIDTH="2774"
-                    HEIGHT="326">
-            <Shape><Polygon POINTS="451 5335 3225 5335 3225 5661 451 5661"/></Shape>
-	    <String CONTENT="bouche celuy qui marche"
-                    HPOS="451"
-                    VPOS="5335"
-                    WIDTH="2774"
-                    HEIGHT="326"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
