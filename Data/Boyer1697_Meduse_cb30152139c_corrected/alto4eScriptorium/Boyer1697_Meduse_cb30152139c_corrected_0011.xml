@@ -31,6 +31,20 @@
                    ID="r_1_1"
                    TAGREFS="BT74">
           <Shape><Polygon POINTS="1104 229 2119 222 2108 345 1104 356"/></Shape>
+                <TextLine ID="tl_1"
+                        TAGREFS="LT36"
+                        BASELINE="1105 342 1622 358 2057 342" 
+                        HPOS="1108"
+                        VPOS="232"
+                        WIDTH="957"
+                        HEIGHT="134">
+                        <Shape><Polygon POINTS="1110 235 2065 232 2025 366 1994 348 1900 348 1882 366 1475 352 1408 366 1345 348 1108 361"/></Shape>
+                        <String CONTENT="TRAGEDIE."
+                                HPOS="1108"
+                                VPOS="232"
+                                WIDTH="957"
+                                HEIGHT="134"></String>
+                </TextLine>
           
         </TextBlock>
         
@@ -525,26 +539,7 @@
         
 
         
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT36"
-                    BASELINE="1105 342 1622 358 2057 342" 
-                    HPOS="1108"
-                    VPOS="232"
-                    WIDTH="957"
-                    HEIGHT="134">
-            <Shape><Polygon POINTS="1110 235 2065 232 2025 366 1994 348 1900 348 1882 366 1475 352 1408 366 1345 348 1108 361"/></Shape>
-	    <String CONTENT="TRAGEDIE."
-                    HPOS="1108"
-                    VPOS="232"
-                    WIDTH="957"
-                    HEIGHT="134"></String>
-          </TextLine>
 
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
