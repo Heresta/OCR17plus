@@ -59,7 +59,88 @@
                    TAGREFS="BT2">
           <Shape><Polygon POINTS="343 1611 3217 1586 3052 6025 392 6040"/></Shape>
           
-          
+                <TextLine ID="line_1555579840399_1589"
+                        TAGREFS="LT64"
+                        BASELINE="1356 1890 2018 1896" 
+                        HPOS="1350"
+                        VPOS="1701"
+                        WIDTH="668"
+                        HEIGHT="200">
+                        <Shape><Polygon POINTS="1350 1701 2012 1707 2018 1901 1356 1895"/></Shape>
+                        <String CONTENT="LES"
+                                HPOS="1350"
+                                VPOS="1701"
+                                WIDTH="668"
+                                HEIGHT="200"></String>
+                </TextLine>
+                
+                
+                
+                <TextLine ID="tl_1"
+                        TAGREFS="LT64"
+                        BASELINE="436 2452 3012 2460" 
+                        HPOS="436"
+                        VPOS="2172"
+                        WIDTH="2576"
+                        HEIGHT="296">
+                        <Shape><Polygon POINTS="436 2172 3012 2172 3012 2468 436 2468"/></Shape>
+                        <String CONTENT="CARACTERES"
+                                HPOS="436"
+                                VPOS="2172"
+                                WIDTH="2576"
+                                HEIGHT="296"></String>
+                </TextLine>
+                
+                
+                
+                <TextLine ID="tl_2"
+                        TAGREFS="LT64"
+                        BASELINE="1500 2900 1676 2900 1932 2892" 
+                        HPOS="1500"
+                        VPOS="2724"
+                        WIDTH="432"
+                        HEIGHT="176">
+                        <Shape><Polygon POINTS="1500 2724 1932 2724 1932 2900 1500 2900"/></Shape>
+                        <String CONTENT="DE"
+                                HPOS="1500"
+                                VPOS="2724"
+                                WIDTH="432"
+                                HEIGHT="176"></String>
+                </TextLine>
+                
+                
+                
+                <TextLine ID="tl_3"
+                        TAGREFS="LT64"
+                        BASELINE="432 3370 628 3370 3004 3348" 
+                        HPOS="425"
+                        VPOS="3129"
+                        WIDTH="2579"
+                        HEIGHT="259">
+                        <Shape><Polygon POINTS="425 3129 3004 3132 3004 3388 425 3385"/></Shape>
+                        <String CONTENT="THEOPHRASTE."
+                                HPOS="425"
+                                VPOS="3129"
+                                WIDTH="2579"
+                                HEIGHT="259"></String>
+                </TextLine>
+                
+                
+                
+                <TextLine ID="tl_4"
+                        TAGREFS="LT64"
+                        BASELINE="490 3770 1746 3782 2214 3786 2922 3782" 
+                        HPOS="490"
+                        VPOS="3650"
+                        WIDTH="2432"
+                        HEIGHT="140">
+                        <Shape><Polygon POINTS="490 3650 2922 3650 2922 3790 490 3790"/></Shape>
+                        <String CONTENT="TRADVITS DV GREC."
+                                HPOS="490"
+                                VPOS="3650"
+                                WIDTH="2432"
+                                HEIGHT="140"></String>
+                </TextLine>
           <TextLine ID="tl_5"
                     TAGREFS="LT65"
                     BASELINE="972 4267 1150 4267 1350 4270 1970 4266 2598 4266 3010 4274" 
@@ -340,95 +421,7 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_1555579840399_1589"
-                    TAGREFS="LT64"
-                    BASELINE="1356 1890 2018 1896" 
-                    HPOS="1350"
-                    VPOS="1701"
-                    WIDTH="668"
-                    HEIGHT="200">
-            <Shape><Polygon POINTS="1350 1701 2012 1707 2018 1901 1356 1895"/></Shape>
-	    <String CONTENT="LES"
-                    HPOS="1350"
-                    VPOS="1701"
-                    WIDTH="668"
-                    HEIGHT="200"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT64"
-                    BASELINE="436 2452 3012 2460" 
-                    HPOS="436"
-                    VPOS="2172"
-                    WIDTH="2576"
-                    HEIGHT="296">
-            <Shape><Polygon POINTS="436 2172 3012 2172 3012 2468 436 2468"/></Shape>
-	    <String CONTENT="CARACTERES"
-                    HPOS="436"
-                    VPOS="2172"
-                    WIDTH="2576"
-                    HEIGHT="296"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT64"
-                    BASELINE="1500 2900 1676 2900 1932 2892" 
-                    HPOS="1500"
-                    VPOS="2724"
-                    WIDTH="432"
-                    HEIGHT="176">
-            <Shape><Polygon POINTS="1500 2724 1932 2724 1932 2900 1500 2900"/></Shape>
-	    <String CONTENT="DE"
-                    HPOS="1500"
-                    VPOS="2724"
-                    WIDTH="432"
-                    HEIGHT="176"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT64"
-                    BASELINE="432 3370 628 3370 3004 3348" 
-                    HPOS="425"
-                    VPOS="3129"
-                    WIDTH="2579"
-                    HEIGHT="259">
-            <Shape><Polygon POINTS="425 3129 3004 3132 3004 3388 425 3385"/></Shape>
-	    <String CONTENT="THEOPHRASTE."
-                    HPOS="425"
-                    VPOS="3129"
-                    WIDTH="2579"
-                    HEIGHT="259"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT64"
-                    BASELINE="490 3770 1746 3782 2214 3786 2922 3782" 
-                    HPOS="490"
-                    VPOS="3650"
-                    WIDTH="2432"
-                    HEIGHT="140">
-            <Shape><Polygon POINTS="490 3650 2922 3650 2922 3790 490 3790"/></Shape>
-	    <String CONTENT="TRADVITS DV GREC."
-                    HPOS="490"
-                    VPOS="3650"
-                    WIDTH="2432"
-                    HEIGHT="140"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
