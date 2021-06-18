@@ -31,7 +31,20 @@
                    ID="eSc_textblock_a8939e77"
                    TAGREFS="BT175">
           <Shape><Polygon POINTS="799 329 799 466 1091 466 1091 329"/></Shape>
-          
+                <TextLine ID="tl_1"
+                        TAGREFS="LT75"
+                        BASELINE="822 448 879 448 1115 449" 
+                        HPOS="819"
+                        VPOS="329"
+                        WIDTH="280"
+                        HEIGHT="170">
+                        <Shape><Polygon POINTS="819 445 830 351 885 357 929 329 984 351 1022 329 1099 357 1099 477 1039 499 830 499"/></Shape>
+                        <String CONTENT="xxxij"
+                                HPOS="819"
+                                VPOS="329"
+                                WIDTH="280"
+                                HEIGHT="170"></String>
+                </TextLine>
         </TextBlock>
         
         <TextBlock HPOS="1890"
@@ -41,7 +54,21 @@
                    ID="eSc_textblock_a3a1ddda"
                    TAGREFS="BT176">
           <Shape><Polygon POINTS="1890 320 1890 456 2835 456 2835 320"/></Shape>
-          
+                <TextLine ID="eSc_line_f1dcae4c"
+                        TAGREFS="LT75"
+                        BASELINE="1918 451 2819 453" 
+                        HPOS="1913"
+                        VPOS="307"
+                        WIDTH="902"
+                        HEIGHT="176">
+                        <Shape><Polygon POINTS="1913 450 1941 307 2210 335 2804 324 2815 450 2787 483 2677 483 2644 461 2584 483 2540 456 2402 456 2358 483 2221 483 2193 456 2117 456 2084 483 2040 461 1924 472"/></Shape>
+                        <String CONTENT="EXAMEN"
+                                HPOS="1913"
+                                VPOS="307"
+                                WIDTH="902"
+                                HEIGHT="176"></String>
+                </TextLine>
+                
         </TextBlock>
         
         <TextBlock HPOS="702"
@@ -786,27 +813,7 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT75"
-                    BASELINE="822 448 879 448 2819 453" 
-                    HPOS="822"
-                    VPOS="336"
-                    WIDTH="1997"
-                    HEIGHT="161">
-            <Shape><Polygon POINTS="822 336 2819 336 2819 497 822 497"/></Shape>
-	    <String CONTENT="xxxij EXAMEN"
-                    HPOS="822"
-                    VPOS="336"
-                    WIDTH="1997"
-                    HEIGHT="161"></String>
-          </TextLine>
 
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

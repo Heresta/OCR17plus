@@ -1,389 +1,319 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
-  <Description>
-    <MeasurementUnit>pixel</MeasurementUnit>
-    <sourceImageInformation>
-      <fileName>LaFayette1678_Cleves_btv1b8610820b_corrected_0058.png</fileName>
-    </sourceImageInformation>
-  </Description>
-  
-  <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT256" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT257" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT258" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT259" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT260" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT261" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT262" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT263" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT264" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT265" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT266" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT267" LABEL="Table" DESCRIPTION="block type Table"/>
-    <OtherTag ID="LT99" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT100" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT101" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT102" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT103" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
-  </Tags>
-  
-  <Layout>
-    <Page WIDTH="4267"
-          HEIGHT="7498"
-          PHYSICAL_IMG_NR="48"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="4267"
-                  HEIGHT="7498">
-        
-        <TextBlock HPOS="930"
-                   VPOS="712"
-                   WIDTH="2806"
-                   HEIGHT="5196"
-                   ID="r_1_1"
-                   TAGREFS="BT2">
-          <Shape><Polygon POINTS="930 736 3724 712 3736 5908 930 5908"/></Shape>
-          
-          
-          <TextLine ID="tl_2"
-                    TAGREFS="LT99"
-                    BASELINE="932 967 1428 954 1536 1009 1820 957 2096 947 2772 937 3428 943 3656 946" 
-                    HPOS="931"
-                    VPOS="726"
-                    WIDTH="2725"
-                    HEIGHT="285">
-            <Shape><Polygon POINTS="931 726 3656 726 3656 1011 931 1011"/></Shape>
-	    <String CONTENT="frere; &amp; ce credit eſtoit ſi"
-                    HPOS="931"
-                    VPOS="726"
-                    WIDTH="2725"
-                    HEIGHT="285"></String>
-          </TextLine>
+        xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+        xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+        <Description>
+                <MeasurementUnit>pixel</MeasurementUnit>
+                <sourceImageInformation>
+                        <fileName>LaFayette1678_Cleves_btv1b8610820b_corrected_0058.png</fileName>
+                </sourceImageInformation>
+        </Description>
 
-          
-          
-          <TextLine ID="tl_3"
-                    TAGREFS="LT99"
-                    BASELINE="937 1387 1565 1257 1713 1305 2217 1247 2473 1242 2981 1321 3297 1248 3665 1210" 
-                    HPOS="936"
-                    VPOS="1026"
-                    WIDTH="2730"
-                    HEIGHT="361">
-            <Shape><Polygon POINTS="936 1026 3666 1026 3666 1387 936 1387"/></Shape>
-	    <String CONTENT="grand, que le Roy en fai¬"
-                    HPOS="936"
-                    VPOS="1026"
-                    WIDTH="2730"
-                    HEIGHT="361"></String>
-          </TextLine>
+        <Tags>
+                <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+                <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+                <OtherTag ID="BT256" LABEL="Damage" DESCRIPTION="block type Damage"/>
+                <OtherTag ID="BT257" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
+                <OtherTag ID="BT258" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+                <OtherTag ID="BT259" LABEL="Figure" DESCRIPTION="block type Figure"/>
+                <OtherTag ID="BT260" LABEL="Margin" DESCRIPTION="block type Margin"/>
+                <OtherTag ID="BT261" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/>
+                <OtherTag ID="BT262" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+                <OtherTag ID="BT263" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/>
+                <OtherTag ID="BT264" LABEL="Seal" DESCRIPTION="block type Seal"/>
+                <OtherTag ID="BT265" LABEL="Signatures" DESCRIPTION="block type Signatures"/>
+                <OtherTag ID="BT266" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+                <OtherTag ID="BT267" LABEL="Table" DESCRIPTION="block type Table"/>
+                <OtherTag ID="LT99" LABEL="Default" DESCRIPTION="line type Default"/>
+                <OtherTag ID="LT100" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+                <OtherTag ID="LT101" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/>
+                <OtherTag ID="LT102" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+                <OtherTag ID="LT103" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+        </Tags>
 
-          
-          
-          <TextLine ID="tl_4"
-                    TAGREFS="LT99"
-                    BASELINE="938 1571 1362 1562 1634 1557 2194 1547 3442 1551 3670 1550" 
-                    HPOS="937"
-                    VPOS="1322"
-                    WIDTH="2733"
-                    HEIGHT="249">
-            <Shape><Polygon POINTS="937 1322 3670 1322 3670 1571 937 1571"/></Shape>
-	    <String CONTENT="ſant la Paix conſentoit à"
-                    HPOS="937"
-                    VPOS="1322"
-                    WIDTH="2733"
-                    HEIGHT="249"></String>
-          </TextLine>
+        <Layout>
+                <Page WIDTH="4267" HEIGHT="7498" PHYSICAL_IMG_NR="48" ID="eSc_dummypage_">
+                        <PrintSpace HPOS="0" VPOS="0" WIDTH="4267" HEIGHT="7498">
 
-          
-          
-          <TextLine ID="tl_5"
-                    TAGREFS="LT99"
-                    BASELINE="943 1867 1639 1857 1903 1852 3071 1904 3671 1854" 
-                    HPOS="942"
-                    VPOS="1626"
-                    WIDTH="2729"
-                    HEIGHT="313">
-            <Shape><Polygon POINTS="942 1626 3671 1626 3671 1939 942 1939"/></Shape>
-	    <String CONTENT="rendre le Piémont, pour"
-                    HPOS="942"
-                    VPOS="1626"
-                    WIDTH="2729"
-                    HEIGHT="313"></String>
-          </TextLine>
+                                <TextBlock HPOS="930" VPOS="712" WIDTH="2806" HEIGHT="5196"
+                                        ID="r_1_1" TAGREFS="BT2">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="930 736 3724 712 3736 5908 930 5908"/>
+                                        </Shape>
 
-          
-          
-          <TextLine ID="tl_6"
-                    TAGREFS="LT99"
-                    BASELINE="944 2171 1273 2250 1872 2160 2812 2153 3080 2152 3676 2158" 
-                    HPOS="943"
-                    VPOS="1930"
-                    WIDTH="2734"
-                    HEIGHT="321">
-            <Shape><Polygon POINTS="943 1930 3677 1930 3677 2251 943 2251"/></Shape>
-	    <String CONTENT="luy faire épouſer le Duc"
-                    HPOS="943"
-                    VPOS="1930"
-                    WIDTH="2734"
-                    HEIGHT="321"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_7"
-                    TAGREFS="LT99"
-                    BASELINE="953 2471 1201 2474 2089 2463 2845 2537 3685 2458" 
-                    HPOS="953"
-                    VPOS="2242"
-                    WIDTH="2733"
-                    HEIGHT="309">
-            <Shape><Polygon POINTS="953 2242 3686 2242 3686 2551 953 2551"/></Shape>
-	    <String CONTENT="de Savoye. Quoy qu&#39;elle"
-                    HPOS="953"
-                    VPOS="2242"
-                    WIDTH="2733"
-                    HEIGHT="309"></String>
-          </TextLine>
+                                        <TextLine ID="tl_2" TAGREFS="LT99"
+                                                BASELINE="932 967 1428 954 1536 1009 1820 957 2096 947 2772 937 3428 943 3656 946"
+                                                HPOS="931" VPOS="726" WIDTH="2725" HEIGHT="285">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="931 726 3656 726 3656 1011 931 1011"/>
+                                                </Shape>
+                                                <String CONTENT="frere; &amp; ce credit eſtoit ſi"
+                                                  HPOS="931" VPOS="726" WIDTH="2725" HEIGHT="285"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_8"
-                    TAGREFS="LT99"
-                    BASELINE="962 2783 1374 2778 2082 2767 2714 2757 2998 2756 3390 2755 3690 2766" 
-                    HPOS="961"
-                    VPOS="2538"
-                    WIDTH="2729"
-                    HEIGHT="245">
-            <Shape><Polygon POINTS="961 2538 3690 2538 3690 2783 961 2783"/></Shape>
-	    <String CONTENT="euſt deſiré toute ſa vie de"
-                    HPOS="961"
-                    VPOS="2538"
-                    WIDTH="2729"
-                    HEIGHT="245"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_9"
-                    TAGREFS="LT99"
-                    BASELINE="959 3079 1151 3079 1935 3068 2091 3115 2547 3070 2763 3065 3363 3063 3707 3026" 
-                    HPOS="959"
-                    VPOS="2846"
-                    WIDTH="2748"
-                    HEIGHT="297">
-            <Shape><Polygon POINTS="959 2846 3707 2846 3707 3143 959 3143"/></Shape>
-	    <String CONTENT="ſe marier, elle n&#39;avoit ja¬"
-                    HPOS="959"
-                    VPOS="2846"
-                    WIDTH="2748"
-                    HEIGHT="297"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_10"
-                    TAGREFS="LT99"
-                    BASELINE="964 3387 1464 3381 2136 3375 3040 3364 3700 3366" 
-                    HPOS="964"
-                    VPOS="3146"
-                    WIDTH="2737"
-                    HEIGHT="321">
-            <Shape><Polygon POINTS="964 3146 3701 3146 3701 3467 964 3467"/></Shape>
-	    <String CONTENT="mais voulu épouſer qu&#39;un"
-                    HPOS="964"
-                    VPOS="3146"
-                    WIDTH="2737"
-                    HEIGHT="321"></String>
-          </TextLine>
+                                        <TextLine ID="tl_3" TAGREFS="LT99"
+                                                BASELINE="937 1387 1565 1257 1713 1305 2217 1247 2473 1242 2981 1321 3297 1248 3665 1210"
+                                                HPOS="936" VPOS="1026" WIDTH="2730" HEIGHT="361">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="936 1026 3666 1026 3666 1387 936 1387"/>
+                                                </Shape>
+                                                <String CONTENT="grand, que le Roy en fai¬"
+                                                  HPOS="936" VPOS="1026" WIDTH="2730" HEIGHT="361"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_11"
-                    TAGREFS="LT99"
-                    BASELINE="969 3695 2025 3680 2189 3735 2529 3678 3009 3668 3705 3674" 
-                    HPOS="969"
-                    VPOS="3454"
-                    WIDTH="2736"
-                    HEIGHT="285">
-            <Shape><Polygon POINTS="969 3454 3705 3454 3705 3739 969 3739"/></Shape>
-	    <String CONTENT="Souverain, &amp; elle avoit"
-                    HPOS="969"
-                    VPOS="3454"
-                    WIDTH="2736"
-                    HEIGHT="285"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_12"
-                    TAGREFS="LT99"
-                    BASELINE="970 3987 1586 3981 2166 3983 2762 3977 3478 3979 3702 3978" 
-                    HPOS="970"
-                    VPOS="3758"
-                    WIDTH="2733"
-                    HEIGHT="317">
-            <Shape><Polygon POINTS="970 3758 3703 3758 3703 4075 970 4075"/></Shape>
-	    <String CONTENT="refuſé pour cette raiſon le"
-                    HPOS="970"
-                    VPOS="3758"
-                    WIDTH="2733"
-                    HEIGHT="317"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_13"
-                    TAGREFS="LT99"
-                    BASELINE="979 4307 1436 4362 1735 4289 2675 4286 3147 4280 3711 4278" 
-                    HPOS="979"
-                    VPOS="4066"
-                    WIDTH="2733"
-                    HEIGHT="309">
-            <Shape><Polygon POINTS="979 4066 3712 4066 3712 4375 979 4375"/></Shape>
-	    <String CONTENT="Roy de Navarre lors qu&#39;il"
-                    HPOS="979"
-                    VPOS="4066"
-                    WIDTH="2733"
-                    HEIGHT="309"></String>
-          </TextLine>
+                                        <TextLine ID="tl_4" TAGREFS="LT99"
+                                                BASELINE="938 1571 1362 1562 1634 1557 2194 1547 3442 1551 3670 1550"
+                                                HPOS="937" VPOS="1322" WIDTH="2733" HEIGHT="249">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="937 1322 3670 1322 3670 1571 937 1571"/>
+                                                </Shape>
+                                                <String CONTENT="ſant la Paix conſentoit à"
+                                                  HPOS="937" VPOS="1322" WIDTH="2733" HEIGHT="249"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_14"
-                    TAGREFS="LT99"
-                    BASELINE="988 4599 1560 4593 2112 4591 2416 4586 3704 4638" 
-                    HPOS="988"
-                    VPOS="4370"
-                    WIDTH="2716"
-                    HEIGHT="277">
-            <Shape><Polygon POINTS="988 4370 3704 4370 3704 4647 988 4647"/></Shape>
-	    <String CONTENT="eſtoit Duc de Vendoſme;"
-                    HPOS="988"
-                    VPOS="4370"
-                    WIDTH="2716"
-                    HEIGHT="277"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_15"
-                    TAGREFS="LT99"
-                    BASELINE="985 4903 1185 4903 1801 4896 1953 4896 2829 4889 3717 4854" 
-                    HPOS="985"
-                    VPOS="4674"
-                    WIDTH="2733"
-                    HEIGHT="293">
-            <Shape><Polygon POINTS="985 4674 3718 4674 3718 4967 985 4967"/></Shape>
-	    <String CONTENT="&amp; avoit toûjours ſouhai¬"
-                    HPOS="985"
-                    VPOS="4674"
-                    WIDTH="2733"
-                    HEIGHT="293"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_16"
-                    TAGREFS="LT99"
-                    BASELINE="994 5199 1198 5198 2370 5203 2738 5197 3722 5246" 
-                    HPOS="994"
-                    VPOS="4974"
-                    WIDTH="2729"
-                    HEIGHT="305">
-            <Shape><Polygon POINTS="994 4974 3723 4974 3723 5279 994 5279"/></Shape>
-	    <String CONTENT="té Monſieur de Savoye,"
-                    HPOS="994"
-                    VPOS="4974"
-                    WIDTH="2729"
-                    HEIGHT="305"></String>
-          </TextLine>
+                                        <TextLine ID="tl_5" TAGREFS="LT99"
+                                                BASELINE="943 1867 1639 1857 1903 1852 3071 1904 3671 1854"
+                                                HPOS="942" VPOS="1626" WIDTH="2729" HEIGHT="313">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="942 1626 3671 1626 3671 1939 942 1939"/>
+                                                </Shape>
+                                                <String CONTENT="rendre le Piémont, pour" HPOS="942"
+                                                  VPOS="1626" WIDTH="2729" HEIGHT="313"/>
+                                        </TextLine>
 
-          
-          
-          <TextLine ID="tl_17"
-                    TAGREFS="LT99"
-                    BASELINE="995 5503 1367 5506 1951 5512 2975 5501 3303 5503 3735 5446" 
-                    HPOS="995"
-                    VPOS="5274"
-                    WIDTH="2740"
-                    HEIGHT="241">
-            <Shape><Polygon POINTS="995 5274 3735 5274 3735 5515 995 5515"/></Shape>
-	    <String CONTENT="elle avoit conſervé de l&#39;in¬"
-                    HPOS="995"
-                    VPOS="5274"
-                    WIDTH="2740"
-                    HEIGHT="241"></String>
-          </TextLine>
 
-          
-          
-          <TextLine ID="tl_18"
-                    TAGREFS="LT99"
-                    BASELINE="996 5823 1956 5820 2580 5818 2973 5893 3728 5802" 
-                    HPOS="996"
-                    VPOS="5586"
-                    WIDTH="2733"
-                    HEIGHT="321">
-            <Shape><Polygon POINTS="996 5586 3729 5586 3729 5907 996 5907"/></Shape>
-	    <String CONTENT="clination pour luy depuis"
-                    HPOS="996"
-                    VPOS="5586"
-                    WIDTH="2733"
-                    HEIGHT="321"></String>
-          </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="943"
-                   VPOS="512"
-                   WIDTH="254"
-                   HEIGHT="205"
-                   ID="eSc_textblock_aff7c0e4"
-                   TAGREFS="BT262">
-          <Shape><Polygon POINTS="943 512 943 717 1197 717 1197 512"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1463"
-                   VPOS="439"
-                   WIDTH="1849"
-                   HEIGHT="278"
-                   ID="eSc_textblock_6ab01dc9"
-                   TAGREFS="BT263">
-          <Shape><Polygon POINTS="1463 439 1463 717 3312 717 3312 439"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_ba646b38"
-                    TAGREFS="LT99"
-                    BASELINE="1463 686 1795 685 3299 672" 
-                    HPOS="1457"
-                    VPOS="412"
-                    WIDTH="1821"
-                    HEIGHT="281">
-            <Shape><Polygon POINTS="1457 681 1476 443 1639 462 1745 424 1795 462 2152 462 2239 424 2358 456 2390 424 2490 449 2521 418 2640 418 2690 456 2840 456 2878 418 3097 412 3128 443 3278 418 3278 681 1464 693"/></Shape>
-	    <String CONTENT="LA PRINCESSE"
-                    HPOS="1457"
-                    VPOS="412"
-                    WIDTH="1821"
-                    HEIGHT="281"></String>
-          </TextLine>
+                                        <TextLine ID="tl_6" TAGREFS="LT99"
+                                                BASELINE="944 2171 1273 2250 1872 2160 2812 2153 3080 2152 3676 2158"
+                                                HPOS="943" VPOS="1930" WIDTH="2734" HEIGHT="321">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="943 1930 3677 1930 3677 2251 943 2251"/>
+                                                </Shape>
+                                                <String CONTENT="luy faire épouſer le Duc"
+                                                  HPOS="943" VPOS="1930" WIDTH="2734" HEIGHT="321"/>
+                                        </TextLine>
 
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="tl_1"
-                    TAGREFS="LT99"
-                    BASELINE="939 727 1047 727 1173 689" 
-                    HPOS="919"
-                    VPOS="506"
-                    WIDTH="285"
-                    HEIGHT="218">
-            <Shape><Polygon POINTS="938 724 919 574 1001 518 1204 506 1169 687 944 724"/></Shape>
-	    <String CONTENT="46"
-                    HPOS="919"
-                    VPOS="506"
-                    WIDTH="285"
-                    HEIGHT="218"></String>
-          </TextLine>
 
-          
-        </TextBlock>
-        
-      </PrintSpace>
-    </Page>
-  </Layout>
+                                        <TextLine ID="tl_7" TAGREFS="LT99"
+                                                BASELINE="953 2471 1201 2474 2089 2463 2845 2537 3685 2458"
+                                                HPOS="953" VPOS="2242" WIDTH="2733" HEIGHT="309">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="953 2242 3686 2242 3686 2551 953 2551"/>
+                                                </Shape>
+                                                <String CONTENT="de Savoye. Quoy qu&#39;elle"
+                                                  HPOS="953" VPOS="2242" WIDTH="2733" HEIGHT="309"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_8" TAGREFS="LT99"
+                                                BASELINE="962 2783 1374 2778 2082 2767 2714 2757 2998 2756 3390 2755 3690 2766"
+                                                HPOS="961" VPOS="2538" WIDTH="2729" HEIGHT="245">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="961 2538 3690 2538 3690 2783 961 2783"/>
+                                                </Shape>
+                                                <String CONTENT="euſt deſiré toute ſa vie de"
+                                                  HPOS="961" VPOS="2538" WIDTH="2729" HEIGHT="245"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_9" TAGREFS="LT99"
+                                                BASELINE="959 3079 1151 3079 1935 3068 2091 3115 2547 3070 2763 3065 3363 3063 3707 3026"
+                                                HPOS="959" VPOS="2846" WIDTH="2748" HEIGHT="297">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="959 2846 3707 2846 3707 3143 959 3143"/>
+                                                </Shape>
+                                                <String CONTENT="ſe marier, elle n&#39;avoit ja¬"
+                                                  HPOS="959" VPOS="2846" WIDTH="2748" HEIGHT="297"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_10" TAGREFS="LT99"
+                                                BASELINE="964 3387 1464 3381 2136 3375 3040 3364 3700 3366"
+                                                HPOS="964" VPOS="3146" WIDTH="2737" HEIGHT="321">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="964 3146 3701 3146 3701 3467 964 3467"/>
+                                                </Shape>
+                                                <String CONTENT="mais voulu épouſer qu&#39;un"
+                                                  HPOS="964" VPOS="3146" WIDTH="2737" HEIGHT="321"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_11" TAGREFS="LT99"
+                                                BASELINE="969 3695 2025 3680 2189 3735 2529 3678 3009 3668 3705 3674"
+                                                HPOS="969" VPOS="3454" WIDTH="2736" HEIGHT="285">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="969 3454 3705 3454 3705 3739 969 3739"/>
+                                                </Shape>
+                                                <String CONTENT="Souverain, &amp; elle avoit"
+                                                  HPOS="969" VPOS="3454" WIDTH="2736" HEIGHT="285"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_12" TAGREFS="LT99"
+                                                BASELINE="970 3987 1586 3981 2166 3983 2762 3977 3478 3979 3702 3978"
+                                                HPOS="970" VPOS="3758" WIDTH="2733" HEIGHT="317">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="970 3758 3703 3758 3703 4075 970 4075"/>
+                                                </Shape>
+                                                <String CONTENT="refuſé pour cette raiſon le"
+                                                  HPOS="970" VPOS="3758" WIDTH="2733" HEIGHT="317"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_13" TAGREFS="LT99"
+                                                BASELINE="979 4307 1436 4362 1735 4289 2675 4286 3147 4280 3711 4278"
+                                                HPOS="979" VPOS="4066" WIDTH="2733" HEIGHT="309">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="979 4066 3712 4066 3712 4375 979 4375"/>
+                                                </Shape>
+                                                <String CONTENT="Roy de Navarre lors qu&#39;il"
+                                                  HPOS="979" VPOS="4066" WIDTH="2733" HEIGHT="309"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_14" TAGREFS="LT99"
+                                                BASELINE="988 4599 1560 4593 2112 4591 2416 4586 3704 4638"
+                                                HPOS="988" VPOS="4370" WIDTH="2716" HEIGHT="277">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="988 4370 3704 4370 3704 4647 988 4647"/>
+                                                </Shape>
+                                                <String CONTENT="eſtoit Duc de Vendoſme;" HPOS="988"
+                                                  VPOS="4370" WIDTH="2716" HEIGHT="277"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_15" TAGREFS="LT99"
+                                                BASELINE="985 4903 1185 4903 1801 4896 1953 4896 2829 4889 3717 4854"
+                                                HPOS="985" VPOS="4674" WIDTH="2733" HEIGHT="293">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="985 4674 3718 4674 3718 4967 985 4967"/>
+                                                </Shape>
+                                                <String CONTENT="&amp; avoit toûjours ſouhai¬"
+                                                  HPOS="985" VPOS="4674" WIDTH="2733" HEIGHT="293"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_16" TAGREFS="LT99"
+                                                BASELINE="994 5199 1198 5198 2370 5203 2738 5197 3722 5246"
+                                                HPOS="994" VPOS="4974" WIDTH="2729" HEIGHT="305">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="994 4974 3723 4974 3723 5279 994 5279"/>
+                                                </Shape>
+                                                <String CONTENT="té Monſieur de Savoye," HPOS="994"
+                                                  VPOS="4974" WIDTH="2729" HEIGHT="305"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_17" TAGREFS="LT99"
+                                                BASELINE="995 5503 1367 5506 1951 5512 2975 5501 3303 5503 3735 5446"
+                                                HPOS="995" VPOS="5274" WIDTH="2740" HEIGHT="241">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="995 5274 3735 5274 3735 5515 995 5515"/>
+                                                </Shape>
+                                                <String CONTENT="elle avoit conſervé de l&#39;in¬"
+                                                  HPOS="995" VPOS="5274" WIDTH="2740" HEIGHT="241"/>
+                                        </TextLine>
+
+
+
+                                        <TextLine ID="tl_18" TAGREFS="LT99"
+                                                BASELINE="996 5823 1956 5820 2580 5818 2973 5893 3728 5802"
+                                                HPOS="996" VPOS="5586" WIDTH="2733" HEIGHT="321">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="996 5586 3729 5586 3729 5907 996 5907"/>
+                                                </Shape>
+                                                <String CONTENT="clination pour luy depuis"
+                                                  HPOS="996" VPOS="5586" WIDTH="2733" HEIGHT="321"/>
+                                        </TextLine>
+
+
+                                </TextBlock>
+
+                                <TextBlock HPOS="943" VPOS="512" WIDTH="254" HEIGHT="205"
+                                        ID="eSc_textblock_aff7c0e4" TAGREFS="BT262">
+                                        <Shape>
+                                                <Polygon POINTS="943 512 943 717 1197 717 1197 512"
+                                                />
+                                        </Shape>
+                                        
+                                        <TextLine ID="tl_1" TAGREFS="LT99"
+                                                BASELINE="939 727 1047 727 1173 689" HPOS="919"
+                                                VPOS="506" WIDTH="285" HEIGHT="218">
+                                                <Shape>
+                                                        <Polygon
+                                                                POINTS="938 724 919 574 1001 518 1204 506 1169 687 944 724"
+                                                        />
+                                                </Shape>
+                                                <String CONTENT="46" HPOS="919" VPOS="506"
+                                                        WIDTH="285" HEIGHT="218"/>
+                                        </TextLine>
+                                        
+
+                                </TextBlock>
+
+                                <TextBlock HPOS="1463" VPOS="439" WIDTH="1849" HEIGHT="278"
+                                        ID="eSc_textblock_6ab01dc9" TAGREFS="BT263">
+                                        <Shape>
+                                                <Polygon
+                                                  POINTS="1463 439 1463 717 3312 717 3312 439"/>
+                                        </Shape>
+
+
+                                        <TextLine ID="eSc_line_ba646b38" TAGREFS="LT99"
+                                                BASELINE="1463 686 1795 685 3299 672" HPOS="1457"
+                                                VPOS="412" WIDTH="1821" HEIGHT="281">
+                                                <Shape>
+                                                  <Polygon
+                                                  POINTS="1457 681 1476 443 1639 462 1745 424 1795 462 2152 462 2239 424 2358 456 2390 424 2490 449 2521 418 2640 418 2690 456 2840 456 2878 418 3097 412 3128 443 3278 418 3278 681 1464 693"
+                                                  />
+                                                </Shape>
+                                                <String CONTENT="LA PRINCESSE" HPOS="1457"
+                                                  VPOS="412" WIDTH="1821" HEIGHT="281"/>
+                                        </TextLine>
+
+
+                                </TextBlock>
+
+
+
+
+                        </PrintSpace>
+                </Page>
+        </Layout>
 </alto>
