@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Racine1676_Oeuvres_bpt6k990581p_corrected_0011.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT633" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT634" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT635" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT636" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT637" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT638" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT639" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT640" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT641" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT642" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT643" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT644" LABEL="Table" DESCRIPTION="block type Table"/>
+    <OtherTag ID="LT227" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT228" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT229" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT230" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT231" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4267"
+          HEIGHT="7568"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4267"
+                  HEIGHT="7568">
+        
+        <TextBlock HPOS="619"
+                   VPOS="2307"
+                   WIDTH="3265"
+                   HEIGHT="1199"
+                   ID="region_1563988841826_861"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="619 2307 3884 2307 3884 3506 619 3506"/></Shape>
+          
+          
+          <TextLine ID="line_1563988849440_865"
+                    TAGREFS="LT227"
+                    BASELINE="700 2841 3788 2831" 
+                    HPOS="692"
+                    VPOS="2434"
+                    WIDTH="3096"
+                    HEIGHT="412">
+            <Shape><Polygon POINTS="692 2444 3780 2434 3788 2836 700 2846"/></Shape>
+	    <String CONTENT="BERENICE."
+                    HPOS="692"
+                    VPOS="2434"
+                    WIDTH="3096"
+                    HEIGHT="412"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1563988853706_870"
+                    TAGREFS="LT227"
+                    BASELINE="941 3410 3511 3420" 
+                    HPOS="941"
+                    VPOS="3141"
+                    WIDTH="2574"
+                    HEIGHT="284">
+            <Shape><Polygon POINTS="945 3141 3515 3151 3511 3425 941 3415"/></Shape>
+	    <String CONTENT="TRAGEDIE."
+                    HPOS="941"
+                    VPOS="3141"
+                    WIDTH="2574"
+                    HEIGHT="284"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

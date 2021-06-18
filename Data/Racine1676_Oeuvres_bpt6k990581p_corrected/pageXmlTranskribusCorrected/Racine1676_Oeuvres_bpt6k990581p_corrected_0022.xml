@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=17thPrint(htr_id=7867)::::v=?1.0.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=?1.0.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=?0.1
+TRP</Creator>
+        <Created>2018-11-08T14:36:43.663+01:00</Created>
+        <LastChange>2019-02-11T11:49:22.458+01:00</LastChange>
+        <TranskribusMetadata docId="149019" pageId="5539211" pageNr="22" tsid="9265379" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=YSYFUUNZQDQWPSKYYEVTTDHB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTEOYPHSPFJVJXTMZSFNYKLU" imageId="2059735"/>
+    </Metadata>
+  <Page imageFilename="Racine1676_Oeuvres_bpt6k990581p_corrected_0022.png" imageWidth="4267" imageHeight="7973">
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604219044281" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="" id="r2" custom="readingOrder {index:0;}">
+      <Coords points="1432,6647 1436,6918 2748,6918 2744,6647"/>
+      <TextLine id="line_1549882150186_205" primaryLanguage="" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1434,6649 2740,6686 2741,6885 1435,6848"/>
+        <Baseline points="1435,6843 2741,6880"/>
+        <Word id="">
+          <Coords points="1434,6649 2740,6686 2741,6885 1435,6848"/>
+          <TextEquiv>
+            <Unicode>BERENICE.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

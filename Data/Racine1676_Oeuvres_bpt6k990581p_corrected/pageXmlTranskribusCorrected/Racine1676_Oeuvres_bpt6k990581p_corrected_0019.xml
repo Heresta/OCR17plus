@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+        <Creator/>
+        <Created>2019-02-11T11:50:41.182+01:00</Created>
+        <LastChange>2019-02-11T12:08:12.972+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: FrenchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="149019" pageId="5539208" pageNr="19" tsid="9265376" status="DONE" userId="10612" imgUrl="https://files.transkribus.eu/Get?id=ECZRXLYIWHPIOUKVNUAJWRWS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NGVKWPPQOGYGGHSIUJRSQAHE" imageId="2059730"/>
+    </Metadata>
+  <Page imageFilename="Racine1676_Oeuvres_bpt6k990581p_corrected_0019.png" imageWidth="4267" imageHeight="7858">
+    <PrintSpace>
+            <Coords points="31,69 4203,69 4203,7280 31,7280"/>
+        </PrintSpace>
+    <ReadingOrder>
+            <OrderedGroup id="ro_1604219043382" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+    <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+      <Coords points="1347,636 2485,636 2485,844 1347,844"/>
+      <TextLine id="tl_2" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="1348,637 2484,637 2484,843 1348,843"/>
+        <Baseline points="1348,807 2484,826"/>
+        <Word id="w_w2aab1b3b2b1b1ab1">
+          <Coords points="1348,637 2484,637 2484,843 1348,843"/>
+          <TextEquiv>
+            <Unicode>PREFACE,</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:1;}">
+      <Coords points="272,824 3566,824 3566,2016 272,2016"/>
+      <TextLine id="tl_3" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:0;}">
+        <Coords points="273,825 3565,825 3565,1125 273,1125"/>
+        <Baseline points="273,1015 999,1020 1487,1026 1959,1031 2235,1037 2862,1061 3262,1054 3565,1071"/>
+        <Word id="w_w2aab1b3b2b3b1ab1">
+          <Coords points="273,825 3565,825 3565,1125 273,1125"/>
+          <TextEquiv>
+            <Unicode>l'attaquer, Non point par jalouſie. Car ſur</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_4" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:1;}">
+        <Coords points="276,1022 3565,1022 3565,1316 276,1316"/>
+        <Baseline points="277,1257 585,1204 1370,1219 2169,1230 2649,1242 2735,1246 3186,1246 3565,1261"/>
+        <Word id="w_w2aab1b3b2b3b3ab1">
+          <Coords points="276,1022 3565,1022 3565,1316 276,1316"/>
+          <TextEquiv>
+            <Unicode>quel fondement ſeroient-ils jaloux? Mais dans</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_5" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:2;}">
+        <Coords points="278,1213 3553,1213 3553,1534 278,1534"/>
+        <Baseline points="278,1406 1036,1405 1369,1411 1550,1420 1764,1415 2433,1436 2603,1443 3021,1446 3241,1441 3553,1457"/>
+        <Word id="w_w2aab1b3b2b3b5ab1">
+          <Coords points="278,1213 3553,1213 3553,1534 278,1534"/>
+          <TextEquiv>
+            <Unicode>l'eſperance qu'on ſe donnera la peine de leur</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_6" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:3;}">
+        <Coords points="282,1407 3561,1407 3561,1701 282,1701"/>
+        <Baseline points="283,1600 842,1599 1010,1644 1197,1611 1668,1618 1876,1615 2307,1630 2467,1634 3152,1639 3561,1652"/>
+        <Word id="w_w2aab1b3b2b3b7ab1">
+          <Coords points="282,1407 3561,1407 3561,1701 282,1701"/>
+          <TextEquiv>
+            <Unicode>répondre, &amp; qu'on les tirera de l'obſcurité où</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_7" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:4;}">
+        <Coords points="279,1597 3552,1597 3552,1894 279,1894"/>
+        <Baseline points="279,1787 612,1793 1190,1798 1928,1810 2132,1814 2755,1829 3212,1841 3551,1829"/>
+        <Word id="w_w2aab1b3b2b3b9ab1">
+          <Coords points="279,1597 3552,1597 3552,1894 279,1894"/>
+          <TextEquiv>
+            <Unicode>leurs propres Ouvrages les auroient laiſſez tou¬</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5"/>
+        </Word>
+      </TextLine>
+      <TextLine id="tl_8" primaryLanguage="English" custom="structure {type:default;} readingOrder {index:5;}">
+        <Coords points="289,1839 1073,1839 1073,2015 289,2015"/>
+        <Baseline points="290,1988 423,1988 755,1992 1073,2003"/>
+        <Word id="w_w2aab1b3b2b3c11ab1">
+          <Coords points="289,1839 1073,1839 1073,2015 289,2015"/>
+          <TextEquiv>
+            <Unicode>te leur vie.</Unicode>
+          </TextEquiv>
+          <TextStyle fontFamily="Times New Roman" fontSize="10.5"/>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="790,2793 3071,2793 3071,4712 790,4712"/>
+        </GraphicRegion>
+    <SeparatorRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="3023,69 4083,69 4083,101 3023,101"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="148,99 2368,99 2368,153 148,153"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="1216,4528 2289,4528 2289,4557 1216,4557"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="2053,4571 2661,4571 2661,4593 2053,4593"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="1006,4608 2443,4608 2443,4670 1006,4670"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="2343,92 2616,92 2616,108 2343,108"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="2495,4408 2615,4408 2615,4422 2495,4422"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="1367,4454 1463,4454 1463,4463 1367,4463"/>
+        </SeparatorRegion>
+    <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="4159,6744 4175,6744 4175,7280 4159,7280"/>
+        </SeparatorRegion>
+  </Page>
+</PcGts>
