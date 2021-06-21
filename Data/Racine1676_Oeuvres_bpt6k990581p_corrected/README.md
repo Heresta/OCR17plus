@@ -1,7 +1,7 @@
 # About _Lettres du sieur de Balzac_ 
 
 ## Original
-_ Oeuvres de Racine. Tome Second._ of Jean Racine (book published in 1676) (https://gallica.bnf.fr/ark:/12148/bpt6k990581p)
+_Oeuvres de Racine. Tome Second._ of Jean Racine (book published in 1676) (https://gallica.bnf.fr/ark:/12148/bpt6k990581p)
 
 ## Images
 First page of the sample used for training:
