@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+  xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>Racine1676_Oeuvres_bpt6k990581p_corrected_0022.png</fileName>
     </sourceImageInformation>
   </Description>
-  
+
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT633" LABEL="Damage" DESCRIPTION="block type Damage"/><OtherTag ID="BT634" LABEL="Decoration" DESCRIPTION="block type Decoration"/><OtherTag ID="BT635" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT636" LABEL="Figure" DESCRIPTION="block type Figure"/><OtherTag ID="BT637" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT638" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/><OtherTag ID="BT639" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT640" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/><OtherTag ID="BT641" LABEL="Seal" DESCRIPTION="block type Seal"/><OtherTag ID="BT642" LABEL="Signatures" DESCRIPTION="block type Signatures"/><OtherTag ID="BT643" LABEL="Stamp" DESCRIPTION="block type Stamp"/><OtherTag ID="BT644" LABEL="Table" DESCRIPTION="block type Table"/>
-    <OtherTag ID="LT227" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT228" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT229" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT230" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/><OtherTag ID="LT231" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+    <OtherTag ID="BT633" LABEL="Damage" DESCRIPTION="block type Damage"/>
+    <OtherTag ID="BT634" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
+    <OtherTag ID="BT635" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+    <OtherTag ID="BT636" LABEL="Figure" DESCRIPTION="block type Figure"/>
+    <OtherTag ID="BT637" LABEL="Margin" DESCRIPTION="block type Margin"/>
+    <OtherTag ID="BT638" LABEL="MusicNotation" DESCRIPTION="block type MusicNotation"/>
+    <OtherTag ID="BT639" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+    <OtherTag ID="BT640" LABEL="RunningTitle" DESCRIPTION="block type RunningTitle"/>
+    <OtherTag ID="BT641" LABEL="Seal" DESCRIPTION="block type Seal"/>
+    <OtherTag ID="BT642" LABEL="Signatures" DESCRIPTION="block type Signatures"/>
+    <OtherTag ID="BT643" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+    <OtherTag ID="BT644" LABEL="Table" DESCRIPTION="block type Table"/>
+    <OtherTag ID="LT227" LABEL="Default" DESCRIPTION="line type Default"/>
+    <OtherTag ID="LT228" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT229" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+    <OtherTag ID="LT230" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/>
+    <OtherTag ID="LT231" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
   </Tags>
-  
+
   <Layout>
-    <Page WIDTH="4267"
-          HEIGHT="7973"
-          PHYSICAL_IMG_NR="10"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="4267"
-                  HEIGHT="7973">
-        
-        <TextBlock HPOS="413"
-                   VPOS="439"
-                   WIDTH="3689"
-                   HEIGHT="6207"
-                   ID="eSc_textblock_8863b9ad"
-                   TAGREFS="BT634">
-          <Shape><Polygon POINTS="413 439 413 6646 4102 6646 4102 439"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1425"
-                   VPOS="6632"
-                   WIDTH="1318"
-                   HEIGHT="307"
-                   ID="eSc_textblock_d65108a0"
-                   TAGREFS="BT2">
-          <Shape><Polygon POINTS="2743 6939 2743 6632 1425 6632 1425 6939"/></Shape>
-          
-        </TextBlock>
-        
+    <Page WIDTH="4267" HEIGHT="7973" PHYSICAL_IMG_NR="10" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4267" HEIGHT="7973">
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_1549882150186_205"
-                    TAGREFS="LT227"
-                    BASELINE="1435 6843 2741 6880" 
-                    HPOS="1434"
-                    VPOS="6649"
-                    WIDTH="1307"
-                    HEIGHT="236">
-            <Shape><Polygon POINTS="1434 6649 2740 6686 2741 6885 1435 6848"/></Shape>
-	    <String CONTENT="BERENICE."
-                    HPOS="1434"
-                    VPOS="6649"
-                    WIDTH="1307"
-                    HEIGHT="236"></String>
+        <TextBlock HPOS="413" VPOS="439" WIDTH="3689" HEIGHT="6207" ID="eSc_textblock_8863b9ad"
+          TAGREFS="BT634">
+          <Shape>
+            <Polygon POINTS="413 439 413 6646 4102 6646 4102 439"/>
+          </Shape>
+
+        </TextBlock>
+
+        <TextBlock HPOS="1425" VPOS="6632" WIDTH="1318" HEIGHT="307" ID="eSc_textblock_d65108a0"
+          TAGREFS="BT2">
+          <Shape>
+            <Polygon POINTS="2743 6939 2743 6632 1425 6632 1425 6939"/>
+          </Shape>
+          <TextLine ID="line_1549882150186_205" TAGREFS="LT227" BASELINE="1435 6843 2741 6880"
+            HPOS="1434" VPOS="6649" WIDTH="1307" HEIGHT="236">
+            <Shape>
+              <Polygon POINTS="1434 6649 2740 6686 2741 6885 1435 6848"/>
+            </Shape>
+            <String CONTENT="BERENICE." HPOS="1434" VPOS="6649" WIDTH="1307" HEIGHT="236"/>
           </TextLine>
-
           
+
         </TextBlock>
-        
+
+
       </PrintSpace>
     </Page>
   </Layout>
