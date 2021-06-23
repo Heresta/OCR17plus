@@ -2,6 +2,12 @@
 
 Data for layout analysis and HTR.
 
+## How to build the dataset
+In your terminal, first use `build_train_alto_Seg17.sh` with a command bash.
+Then, use the `python train_val_prep.py ./trainingDataSeg17/*.png`.
+
+You will get a `trainingDataSeg17` directory containing all the data.
+
 ## Structure
 
 ```
