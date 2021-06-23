@@ -48,7 +48,7 @@ Data used come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the c
 3. the final version exported from eScriptorium (`alto4eScriptorium`)
 
 <p align="center">
-  <img src="img/general_flowchart.png" width="400"/>
+  <img src="img/general_flowchart.png" width="800"/>
 </p>
 
 ## Contacts
