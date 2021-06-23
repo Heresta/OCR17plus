@@ -6,7 +6,7 @@ Data for layout analysis and HTR.
 In your terminal, first use `build_train_alto_Seg17.sh` with a command bash.
 Then, use the `python train_val_prep.py ./trainingDataSeg17/*.png`.
 
-You will get a `trainingDataSeg17` directory containing all the data.
+You will get a `trainingDataSeg17` directory containing all the data and two new files `train.txt` and `val.txt`.
 
 ## Structure
 
