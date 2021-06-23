@@ -7,6 +7,7 @@ In your terminal, first use `build_train_alto_Seg17.sh` with a command bash.
 Then, use the `python train_val_prep.py ./trainingDataSeg17/*.png`.
 
 You will get a `trainingDataSeg17` directory containing all the data and two new files `train.txt` and `val.txt`.
+The `test.txt` file is already prepared. We can test our training on the same test. It was created with 3 title pages, 14 pages containing damage, 2 pages with margin, 14 with decoration, 19 with rubric or signatures (or both), 1 with a running title on bottom of page, 3 pages with decorated drop capitals, 7 with basic drop capitals and 28 basic pages.
 
 ## Structure
 
@@ -31,6 +32,8 @@ You will get a `trainingDataSeg17` directory containing all the data and two new
 ├── build_train_alto_Seg17.sh
 ├── files_informations.csv
 ├── parts_dataset.csv
+├── train_val_prep.py
+├── test.txt
 └── README.md
 ```
 
