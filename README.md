@@ -47,6 +47,10 @@ Data used come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the c
 2. its prepared form for eScriptorium (`pagexmlTranskribusCorrected`)
 3. the final version exported from eScriptorium (`alto4eScriptorium`)
 
+<p align="center">
+  <img src="img/general_flowchart.png" width="400"/>
+</p>
+
 ## Contacts
 Claire Jahan : claire.jahan[at]chartes.psl.eu
 
