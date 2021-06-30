@@ -18,3 +18,35 @@ Color model: RGB
 ``pageXmlTranskribusCorrected`` contains all the PAGE-XML files which are the output files of Transkribus and which was transformed to fit and be used in [eScriptorium](http://traces6.paris.inria.fr/) (link to the python and xsl scripts used [here](https://github.com/Heresta/BAO_Stage_DH_ENS_2021/tree/main/CorrectionPageXMLeScriptorium)).
 
 ``alto4eScriptorium`` contains all the ALTO (version 4) xml files which are the output files of [eScriptorium](http://traces6.paris.inria.fr/). Those files were cleaned and prepared. On one hand, all zones were reshaped and renamed depending on an ontology under development called [SegmOnto](https://github.com/SegmOnto) ([link to the zones' denomination list](https://github.com/SegmOnto/examples/tree/main/zones)). We try to do things as simple as possible. But it still raises questions : we gathered them [here](https://github.com/Heresta/BAO_Stage_DH_ENS_2021/tree/main/problemesSegmentation) (french documentation). On the other hand, only some lines were reshaped, but they all were renamed also depending on [SegmOnto](https://github.com/SegmOnto) ([link to the lines' denomination list](https://github.com/SegmOnto/examples/tree/main/lines)).
+
+## About files' segmentation
+
+### About zones:
+
+Main: 31 (27.19%)
+
+Damage: 3 (2.63%)
+
+Decoration: 10 (8.77%)
+
+DropCapital: 5 (4.39%)
+
+Margin: 2 (1.75%)
+
+Numbering: 27 (23.68%)
+
+RunningTitle: 24 (21.05%)
+
+Signatures: 11 (9.65%)
+
+Stamp: 1 (0.88%)
+
+### About lines:
+
+Default: 686 (98.0%)
+
+DropCapitalLine: 10 (1.43%)
+
+Rubric: 4 (0.57%)
+
+
