@@ -84,6 +84,10 @@ Signatures: 164 (6.81%)
 
 Stamp: 21 (0.87%)
 
+<p align="center">
+  <img src="img/division_zones_dataset.png" width="800"/>
+</p>
+
 ### About lines:
 
 Default: 15 362 (97.6%)
@@ -91,6 +95,62 @@ Default: 15 362 (97.6%)
 DropCapitalLine: 290 (1.84%)
 
 Rubric: 88 (0.56%)
+
+### About lines in zones:
+
+Title:
+
+- Default: 173
+
+Main:
+
+- Default: 13 966
+
+- DropCapitalLine: 234
+
+- Rubric: 87
+
+Damage:
+
+- Default: 2
+
+- Rubric: 1
+
+Decoration:
+
+- Default: 5
+
+DropCapital:
+
+- Default: 2
+
+- DropCapitalLine: 55
+
+Margin:
+
+- Default: 89
+
+- DropCapitalLine: 1
+
+Numbering:
+
+- Default: 456
+
+RunningTitle:
+
+- Default: 506
+
+Signatures:
+
+- Default: 161
+
+Stamp:
+
+- Default: 2
+
+<p align="center">
+  <img src="img/division_zones_by_lines.png" width="800"/>
+</p>
 
 ## Contacts
 Claire Jahan : claire.jahan[at]chartes.psl.eu
