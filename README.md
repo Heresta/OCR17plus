@@ -60,6 +60,38 @@ Data used come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the c
   <img src="img/general_flowchart.png" width="800"/>
 </p>
 
+## About files' segmentation
+
+### About zones:
+
+Title: 35 (1.45%)
+
+Main: 626 (26.01%)
+
+Damage: 170 (7.06%)
+
+Decoration: 192 (7.98%)
+
+DropCapital: 155 (6.44%)
+
+Margin: 31 (1.29%)
+
+Numbering: 502 (20.86%)
+
+RunningTitle: 511 (21.23%)
+
+Signatures: 164 (6.81%)
+
+Stamp: 21 (0.87%)
+
+### About lines:
+
+Default: 15362 (97.6%)
+
+DropCapitalLine: 290 (1.84%)
+
+Rubric: 88 (0.56%)
+
 ## Contacts
 Claire Jahan : claire.jahan[at]chartes.psl.eu
 
