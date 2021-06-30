@@ -86,7 +86,7 @@ Stamp: 21 (0.87%)
 
 ### About lines:
 
-Default: 15362 (97.6%)
+Default: 15 362 (97.6%)
 
 DropCapitalLine: 290 (1.84%)
 
