@@ -64,25 +64,25 @@ Data used come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the c
 
 ### About zones:
 
-Title: 35 (1.45%)
+Title: 39 (1.37%)
 
-Main: 626 (26.01%)
+Main: 741 (26.1%)
 
-Damage: 170 (7.06%)
+Damage: 222 (7.82%)
 
-Decoration: 192 (7.98%)
+Decoration: 207 (7.29%)
 
-DropCapital: 155 (6.44%)
+DropCapital: 166 (5.85%)
 
-Margin: 31 (1.29%)
+Margin: 45 (1.59%)
 
-Numbering: 502 (20.86%)
+Numbering: 576 (20.29%)
 
-RunningTitle: 511 (21.23%)
+RunningTitle: 621 (21.87%)
 
-Signatures: 164 (6.81%)
+Signatures: 199 (7.01%)
 
-Stamp: 21 (0.87%)
+Stamp: 23 (0.81%)
 
 <p align="center">
   <img src="img/division_zones_dataset.png" width="800"/>
@@ -90,25 +90,25 @@ Stamp: 21 (0.87%)
 
 ### About lines:
 
-Default: 15 362 (97.6%)
+Default: 17963 (97.8%)
 
-DropCapitalLine: 290 (1.84%)
+DropCapitalLine: 311 (1.69%)
 
-Rubric: 88 (0.56%)
+Rubric: 93 (0.51%)
 
-### About lines in zones:
+### About lines in zone
 
 Title:
 
-- Default: 173
+- Default: 198
 
 Main:
 
-- Default: 13 966
+- Default: 16 277
 
-- DropCapitalLine: 234
+- DropCapitalLine: 253
 
-- Rubric: 87
+- Rubric: 92
 
 Damage:
 
@@ -122,27 +122,27 @@ Decoration:
 
 DropCapital:
 
-- Default: 2
+- Default: 3
 
-- DropCapitalLine: 55
+- DropCapitalLine: 57
 
 Margin:
 
-- Default: 89
+- Default: 134
 
 - DropCapitalLine: 1
 
 Numbering:
 
-- Default: 456
+- Default: 528
 
 RunningTitle:
 
-- Default: 506
+- Default: 618
 
 Signatures:
 
-- Default: 161
+- Default: 196
 
 Stamp:
 
