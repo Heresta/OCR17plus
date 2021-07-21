@@ -23,10 +23,10 @@ This model has 96% accuracy, according to training part, but only 91% according 
 ### Production
 
 This model was produced thanks to this dataset. It was divided in three sets : `train` (training set), `val` (evaluation set) and
-`test` (test set). Those were created with [`train_val_prep.py`]
-(https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/train_val_prep.py), written thanks to Simon Gabay's script 
-([here](https://github.com/gabays/Cours_2020_01_Strasbourg/blob/master/randomise_data.py)). It uses a prepared test set ([here]
-(https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/test.txt)
+`test` (test set). Those were created with 
+[`train_val_prep.py`](https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/train_val_prep.py), written thanks to Simon Gabay's script 
+([here](https://github.com/gabays/Cours_2020_01_Strasbourg/blob/master/randomise_data.py)). It uses a prepared test set 
+([here](https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/test.txt)
 
 `train` contained 75% of total dataset. `val` contained 10% of total dataset. `test` contained 15% of total dataset.
 
@@ -41,10 +41,10 @@ This model has 96.3% accuracy, according to training part.
 ### Production
 
 This model was produced thanks to this dataset. It was divided in three sets : `train` (training set), `val` (evaluation set) and
-`test` (test set). Those were created with [`train_val_prep.py`]
-(https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/train_val_prep.py), written thanks to Simon Gabay's script
-([here](https://github.com/gabays/Cours_2020_01_Strasbourg/blob/master/randomise_data.py)). It uses a prepared test set ([here]
-(https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/test.txt)
+`test` (test set). Those were created with 
+[`train_val_prep.py`](https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/train_val_prep.py), written thanks to Simon Gabay's script
+([here](https://github.com/gabays/Cours_2020_01_Strasbourg/blob/master/randomise_data.py)). It uses a prepared test set 
+([here](https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/test.txt)
 
 `train` contained 75% of total dataset. `val` contained 10% of total dataset. `test` contained 15% of total dataset.
 
