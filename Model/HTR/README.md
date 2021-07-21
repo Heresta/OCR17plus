@@ -5,9 +5,10 @@
 
 ### Production
 
-This model was produced thanks to this dataset. It was divided in three sets : `train` (training set), `val` (evaluation set) and
-`test` (test set). Those were created thanks to Simon Gabay's script
-([here](https://github.com/gabays/Cours_2020_01_Strasbourg/blob/master/randomise_data.py)).
+This model was produced thanks to release 1.0 of this dataset 
+([here for more information](https://github.com/Heresta/datasetsOCRSegmenter17/releases/tag/1.0)). 
+It was divided in three sets : `train` (training set), `val` (evaluation set) and `test` (test set). Those were created thanks to 
+Simon Gabay's script ([here](https://github.com/gabays/Cours_2020_01_Strasbourg/blob/master/randomise_data.py)).
 
 `train` contained 82.76% of total dataset. `val` contained 7.61% of total dataset. `test` contained 9.62% of total dataset.
 
