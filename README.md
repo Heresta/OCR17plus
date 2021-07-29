@@ -38,6 +38,8 @@ The `test.txt` file is already prepared. We can test our training on the same te
 ├── parts_dataset.csv
 ├── train_val_prep.py
 ├── test.txt
+├── segmontoAltoValidator.xsd
+├── validator_alto.py
 └── README.md
 ```
 
@@ -58,6 +60,9 @@ described individually in their respective folder.
 ``files_informations.csv`` contains all names of dataset's files sorted depending on their main specificity.
 
 ``parts_dataset.csv`` contains the percentage of each specificity in this dataset.
+
+``segmontoAltoValidator`` and ``validator_alto.py`` are two files to help to validate any xml data added in this repository thanks to a workflow
+on GitHub. They are from [HTR-United/cremma-medieval repository](https://github.com/HTR-United/cremma-medieval).
 
 ## Data production
 Some of used data come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the composition of which started 
