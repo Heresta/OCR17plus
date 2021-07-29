@@ -1,15 +1,27 @@
-# OCR17+ - Additional data for information extraction of old French prints
+# OCR17+ - Layout analysis and text recognition for 17th c. French prints
 
-Data for layout analysis and HTR.
+This repo contains training data and models for Layout analysis and text recognition for 17th c. French prints
 
-## How to build the dataset
-In your terminal, first use `build_train_alto_Seg17.sh` with a command bash.
-Then, use the `python train_val_prep.py ./trainingDataSeg17/*.xml`.
+<span style="color:red;">This repo is an updated version of the [OCR17 repo](https://github.com/e-ditiones/OCR17).</span>
 
-You will get a `trainingDataSeg17` directory containing all the data and two new files `train.txt` and `val.txt`.
-The `test.txt` file is already prepared. We can test our training on the same test. It was created with 3 title pages, 14 pages containing damage, 2 pages with margin, 14 with decoration, 19 with rubric or signatures (or both), 1 with a running title on bottom of page, 3 pages with decorated drop capitals, 7 with basic drop capitals and 28 basic pages. This test file can also be used for an HTR training test.
+## How to use
+
+Training data is organised per print:
+* `Balzac1624_Lettres_btv1b86262420_corrected`
+* `Boyer1697_Meduse_cb30152139c_corrected`
+* …
+
+To train a model, all the data needs to added to a single file, prior to the repartition between train, validation and test. To do so:
+1. `git clone https://github.com/Heresta/datasetsOCRSegmenter17`
+2. `cd datasetsOCRSegmenter17`
+3. `bash build_train_alto_Seg17.sh` creates a `trainingDataSeg17` directory
+4. `python train_val_prep.py ./trainingDataSeg17/*.xml` creates two new files `train.txt` (with training data) and `val.txt` (validation data).
+
+The `test.txt` file is already prepared for the reproducibility of the test, and evaluate the improvement over time. It was created with 3 title pages, 14 pages containing damage, 2 pages with margin, 14 with decoration, 19 with rubric or signatures (or both), 1 with a running title on bottom of page, 3 pages with decorated drop capitals, 7 with basic drop capitals and 28 basic pages. This test file can also be used for an HTR training test.
 
 ## Structure
+
+The structure of the repo is the following:
 
 ```
 ├── Data
@@ -44,15 +56,15 @@ The `test.txt` file is already prepared. We can test our training on the same te
 ```
 
 The ``Data`` directory contains excerpts of 17<sup>th</sup> century books, _i.e._ scans of selected pages and their encoding in 
-PageXML and ALTO-4 files.
+PageXML and ALTO-4 files. Regarding the difference between all these directories, cf. _infra_, § Data production.
 
 The ``Models`` directory contains several trained models, three for HTR 
 (more information [here](https://github.com/Heresta/blob/main/Model/HTR/README.md)) and the second for segmentation 
 (more information [here](https://github.com/Heresta/datasetsOCRSegmenter17/blob/main/Model/Segment/README.md)).
 
-* The files propose not only the transcription of the text but also a description of the layout using the 
+* The files propose not only the transcription of the text but also an annotation of the layout using the 
 [SegmOnto](https://github.com/SegmOnto) vocabulary.
-* Some of old prints have been selected in the [OCR17 repo](https://github.com/e-ditiones/OCR17), and are all 
+* Some old prints have been selected in the [OCR17 repo](https://github.com/e-ditiones/OCR17), and are all 
 described individually in their respective folder.
 
 ``build_train_alto_Seg17.sh`` is a script to create a `.png` + ALTO4 dataset from all the print.
@@ -62,11 +74,11 @@ described individually in their respective folder.
 ``parts_dataset.csv`` contains the percentage of each specificity in this dataset.
 
 ``segmontoAltoValidator`` and ``validator_alto.py`` are two files to help to validate any xml data added in this repository thanks to a workflow
-on GitHub. They are from [HTR-United/cremma-medieval repository](https://github.com/HTR-United/cremma-medieval).
+on GitHub. They ahave been taken from [HTR-United/cremma-medieval repository](https://github.com/HTR-United/cremma-medieval).
 
 ## Data production
 Some of used data come from the [OCR17 repo](https://github.com/e-ditiones/OCR17), the composition of which started 
-with [Transkribus](https://readcoop.eu/transkribus). For each print, we propose
+with [Transkribus](https://readcoop.eu/transkribus), which needs to be adapted for eScriptorium. Therefore, for each print, we propose
 1. export format (`pageXmlTranskribus`)
 2. its prepared form for eScriptorium (`pagexmlTranskribusCorrected`)
 3. the final version exported from eScriptorium (`alto4eScriptorium`)
@@ -77,8 +89,9 @@ with [Transkribus](https://readcoop.eu/transkribus). For each print, we propose
 
 ## About files' segmentation
 
-### About zones:
+### Types of zones
 
+```
 Title: 39 (1.37%)
 
 Main: 741 (26.1%)
@@ -98,21 +111,24 @@ RunningTitle: 621 (21.87%)
 Signatures: 199 (7.01%)
 
 Stamp: 23 (0.81%)
+```
 
 <p align="center">
   <img src="img/division_zones_dataset.png" width="800"/>
 </p>
 
-### About lines:
+### Type of lines
 
+```
 Default: 17963 (97.8%)
 
 DropCapitalLine: 311 (1.69%)
 
 Rubric: 93 (0.51%)
 
-### About lines in zone
-
+```
+### Type of lines/type of zone
+```
 Title:
 
 - Default: 198
@@ -162,7 +178,7 @@ Signatures:
 Stamp:
 
 - Default: 2
-
+```
 <p align="center">
   <img src="img/division_zones_by_lines.png" width="800"/>
 </p>
