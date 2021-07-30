@@ -92,25 +92,25 @@ with [Transkribus](https://readcoop.eu/transkribus), which needs to be adapted f
 ### Types of zones
 
 ```
-Title: 39 (1.37%)
+Title: 41 (1.26%)
 
-Main: 741 (26.1%)
+Main: 849 (26.02%)
 
-Damage: 222 (7.82%)
+Damage: 224 (6.85%)
 
-Decoration: 207 (7.29%)
+Decoration: 270 (8.27%)
 
-DropCapital: 166 (5.85%)
+DropCapital: 202 (6.19%)
 
-Margin: 45 (1.59%)
+Margin: 45 (1.38%)
 
-Numbering: 576 (20.29%)
+Numbering: 667 (20.44%)
 
-RunningTitle: 621 (21.87%)
+RunningTitle: 714 (21.88%)
 
-Signatures: 199 (7.01%)
+Signatures: 226 (6.93%)
 
-Stamp: 23 (0.81%)
+Stamp: 25 (0.77%)
 ```
 
 <p align="center">
@@ -120,26 +120,26 @@ Stamp: 23 (0.81%)
 ### Type of lines
 
 ```
-Default: 17963 (97.8%)
+Default: 20747 (97.86%)
 
-DropCapitalLine: 311 (1.69%)
+DropCapitalLine: 356 (1.68%)
 
-Rubric: 93 (0.51%)
+Rubric: 97 (0.46%)
 
 ```
 ### Type of lines/type of zone
 ```
 Title:
 
-- Default: 198
+- Default: 206
 
 Main:
 
-- Default: 16 277
+- Default: 18 858
 
-- DropCapitalLine: 253
+- DropCapitalLine: 295
 
-- Rubric: 92
+- Rubric: 96
 
 Damage:
 
@@ -153,9 +153,9 @@ Decoration:
 
 DropCapital:
 
-- Default: 3
+- Default: 6
 
-- DropCapitalLine: 57
+- DropCapitalLine: 60
 
 Margin:
 
@@ -165,15 +165,15 @@ Margin:
 
 Numbering:
 
-- Default: 528
+- Default: 609
 
 RunningTitle:
 
-- Default: 618
+- Default: 706
 
 Signatures:
 
-- Default: 196
+- Default: 219
 
 Stamp:
 
