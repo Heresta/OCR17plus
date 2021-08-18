@@ -6,6 +6,7 @@ mkdir -p trainingDataSeg17
 #getting images
 cp Data/*/png/*png trainingDataSeg17
 cp Data/*/jpg/*jpg trainingDataSeg17
+cp Data/*/img/*jpg trainingDataSeg17
 #getting xml files
 cp Data/*/alto4eScriptorium/*xml trainingDataSeg17
 
