@@ -8,9 +8,12 @@ if __name__ == '__main__':
 
     random.seed('1214')
 
+    with open(test.txt) as f:
+       files = (os.path.basename(filepath) for file in f.readlines())
+
     for i in sys.argv[1:]:
         with open('test.txt') as f:
-            if i in f.read():
+            if os.path.basename(1) in files:
                 pass
             else:
                 i = os.path.abspath(i)
